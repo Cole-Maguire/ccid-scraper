@@ -1,7 +1,7 @@
 from bs4 import BeautifulSoup
 import requests
 import time
-import random
+import re
 header = {'User-Agent': 'Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.36'}
 class cas_class:
     def __init__(self,cas_in):
@@ -10,7 +10,7 @@ class cas_class:
         self.conc_objects = {}
         for title in self.conc_urls.keys():
             self.conc_objects[title] = conc_class(self.conc_urls[title],title)
-            time.sleep(random.random())
+            time.sleep(0.25)
 
     def get_conc_urls(self):
         url_base = 'https://www.epa.govt.nz/database-search/chemical-classification-and-information-database-ccid/DatabaseSearchForm?SiteDatabaseSearchFilters=35&Keyword='+ self.cas_no +'&DatabaseType=CCID'
@@ -54,7 +54,26 @@ class conc_class:
         self.parse_title()
 
     def parse_title(self):
-        #Percentages need to be regexed, otherwise there are issues.
+        #This is probably clunky as hell, but I'm learnt regex an hour ago
+        #and I'm aiming for readability here, mmmkay?
+        reg = re.search(r'([\w\s,]*)([><][\d\s-]*%)?(.*)',self.title)
+        if reg.group(2) is None:
+            self.lower_conc, self.upper_conc = (0,100)
+        else:
+            self.parse_range(reg.group(2))
+        self.solu_type = reg.group(3)
+        if reg.group(1)[-2:] == ', ':
+            self.raw_name = reg.group(1)[0:-2]
+        else:
+            self.raw_name = reg.group(1)
+
+    def parse_range(self,range_in_str):
+        reg_range = re.search(r'^[<>]?([\d\.]{1,3})[\s\-]*([\d\.]{1,3})?%$',range_in_str) #Damn do I hate regex
+        self.lower_conc  = reg_range.group(1) if reg_range.group(1) is not None else 0
+        self.upper_conc  = reg_range.group(2) if reg_range.group(2) is not None else 100
+
+    def parse_title_OLD(self):
+        #Kept around until regex is working 100%
         str_shrink = self.title.replace(" ", '')
         comma_coord =str_shrink.find(",")
         percent_coord = str_shrink.find("%")
@@ -96,9 +115,10 @@ class conc_class:
 
 class haz_class:
         def __init__(self,full_name,route):
-            self.full_name = full_name.replace('\n','').replace('Plus','')
-            self.class_abc = self.full_name[-1]
-            self.class_num = self.full_name.replace('Classification','').replace(' ','')[0:-1]
+            reg_haz = re.search(r'Classification (\d\.\d\.?\d?)([A-F])', full_name)
+            #self.full_name = full_name.replace('\n','').replace('Plus','')
+            self.class_abc = reg_haz.group(2)
+            self.class_num = reg_haz.group(1)
             self.route = route.replace('(','').replace(')','').replace('\n','')
         def __str__(self):
             return self.class_num  +self.class_abc
