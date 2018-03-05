@@ -1,0 +1,249 @@
+cas-no|full-title|raw-name|lower-limit|upper-limit|class-num|class-abcd|class-route|title
+7722-84-1|Hydrogen peroxide, 20 - 60|0|100|5.1.1|B| |Hydrogen peroxide, 20 - 60% aqueous solution
+7722-84-1|Hydrogen peroxide, 20 - 60|0|100|6.1|D|oral|Hydrogen peroxide, 20 - 60% aqueous solution
+7722-84-1|Hydrogen peroxide, 20 - 60|0|100|6.9|B|inhalation|Hydrogen peroxide, 20 - 60% aqueous solution
+7722-84-1|Hydrogen peroxide, 20 - 60|0|100|8.2|B| |Hydrogen peroxide, 20 - 60% aqueous solution
+7722-84-1|Hydrogen peroxide, 20 - 60|0|100|8.3|A| |Hydrogen peroxide, 20 - 60% aqueous solution
+7722-84-1|Hydrogen peroxide, 20 - 60|0|100|9.1|D|algal|Hydrogen peroxide, 20 - 60% aqueous solution
+7722-84-1|Hydrogen peroxide, 20 - 60|0|100|9.3|C| |Hydrogen peroxide, 20 - 60% aqueous solution
+7722-84-1|Hydrogen peroxide|60|100|5.1.1|A| |Hydrogen peroxide, > 60% aqueous solution
+7722-84-1|Hydrogen peroxide|60|100|6.1|D|All|Hydrogen peroxide, > 60% aqueous solution
+7722-84-1|Hydrogen peroxide|60|100|6.1|D|oral|Hydrogen peroxide, > 60% aqueous solution
+7722-84-1|Hydrogen peroxide|60|100|6.9|B|All|Hydrogen peroxide, > 60% aqueous solution
+7722-84-1|Hydrogen peroxide|60|100|6.9|B|oral|Hydrogen peroxide, > 60% aqueous solution
+7722-84-1|Hydrogen peroxide|60|100|6.9|B|inhalation|Hydrogen peroxide, > 60% aqueous solution
+7722-84-1|Hydrogen peroxide|60|100|8.2|A| |Hydrogen peroxide, > 60% aqueous solution
+7722-84-1|Hydrogen peroxide|60|100|8.3|A| |Hydrogen peroxide, > 60% aqueous solution
+7722-84-1|Hydrogen peroxide|60|100|9.1|D|All|Hydrogen peroxide, > 60% aqueous solution
+7722-84-1|Hydrogen peroxide|60|100|9.1|D|fish|Hydrogen peroxide, > 60% aqueous solution
+7722-84-1|Hydrogen peroxide|60|100|9.1|D|crustacean|Hydrogen peroxide, > 60% aqueous solution
+7722-84-1|Hydrogen peroxide|60|100|9.1|D|algal|Hydrogen peroxide, > 60% aqueous solution
+7722-84-1|Hydrogen peroxide|60|100|9.3|B| |Hydrogen peroxide, > 60% aqueous solution
+7722-84-1|Hydrogen peroxide, 8 - 20|0|100|5.1.1|C| |Hydrogen peroxide, 8 - 20% aqueous solution
+7722-84-1|Hydrogen peroxide, 8 - 20|0|100|6.1|E|All|Hydrogen peroxide, 8 - 20% aqueous solution
+7722-84-1|Hydrogen peroxide, 8 - 20|0|100|6.1|E|oral|Hydrogen peroxide, 8 - 20% aqueous solution
+7722-84-1|Hydrogen peroxide, 8 - 20|0|100|6.9|B|All|Hydrogen peroxide, 8 - 20% aqueous solution
+7722-84-1|Hydrogen peroxide, 8 - 20|0|100|6.9|B|oral|Hydrogen peroxide, 8 - 20% aqueous solution
+7722-84-1|Hydrogen peroxide, 8 - 20|0|100|6.9|B|inhalation|Hydrogen peroxide, 8 - 20% aqueous solution
+7722-84-1|Hydrogen peroxide, 8 - 20|0|100|8.3|A| |Hydrogen peroxide, 8 - 20% aqueous solution
+7722-84-1|Hydrogen peroxide, 8 - 20|0|100|9.1|D|All|Hydrogen peroxide, 8 - 20% aqueous solution
+7722-84-1|Hydrogen peroxide, 8 - 20|0|100|9.1|D|fish|Hydrogen peroxide, 8 - 20% aqueous solution
+7722-84-1|Hydrogen peroxide, 8 - 20|0|100|9.1|D|crustacean|Hydrogen peroxide, 8 - 20% aqueous solution
+7722-84-1|Hydrogen peroxide, 8 - 20|0|100|9.1|D|algal|Hydrogen peroxide, 8 - 20% aqueous solution
+7758-29-4|Pentasodium tripolyphosphate|0|100|6.1|E|All|Pentasodium tripolyphosphate
+7758-29-4|Pentasodium tripolyphosphate|0|100|6.1|E|oral|Pentasodium tripolyphosphate
+7758-29-4|Pentasodium tripolyphosphate|0|100|6.4|A| |Pentasodium tripolyphosphate
+7778-54-3|Hypochlorous acid, calcium salt dry|39|100|5.1.1|B| |Hypochlorous acid, calcium salt (dry), > 39% available chlorine, >26% in a non hazardous diluent
+7778-54-3|Hypochlorous acid, calcium salt dry|39|100|6.1|D|All|Hypochlorous acid, calcium salt (dry), > 39% available chlorine, >26% in a non hazardous diluent
+7778-54-3|Hypochlorous acid, calcium salt dry|39|100|6.1|D|oral|Hypochlorous acid, calcium salt (dry), > 39% available chlorine, >26% in a non hazardous diluent
+7778-54-3|Hypochlorous acid, calcium salt dry|39|100|8.1|A| |Hypochlorous acid, calcium salt (dry), > 39% available chlorine, >26% in a non hazardous diluent
+7778-54-3|Hypochlorous acid, calcium salt dry|39|100|8.2|B| |Hypochlorous acid, calcium salt (dry), > 39% available chlorine, >26% in a non hazardous diluent
+7778-54-3|Hypochlorous acid, calcium salt dry|39|100|8.3|A| |Hypochlorous acid, calcium salt (dry), > 39% available chlorine, >26% in a non hazardous diluent
+7778-54-3|Hypochlorous acid, calcium salt dry|39|100|9.1|A|All|Hypochlorous acid, calcium salt (dry), > 39% available chlorine, >26% in a non hazardous diluent
+7778-54-3|Hypochlorous acid, calcium salt dry|39|100|9.1|A|fish|Hypochlorous acid, calcium salt (dry), > 39% available chlorine, >26% in a non hazardous diluent
+7778-54-3|Hypochlorous acid, calcium salt dry|39|100|9.1|A|crustacean|Hypochlorous acid, calcium salt (dry), > 39% available chlorine, >26% in a non hazardous diluent
+7778-54-3|Hypochlorous acid, calcium salt dry|39|100|9.2|A| |Hypochlorous acid, calcium salt (dry), > 39% available chlorine, >26% in a non hazardous diluent
+7778-54-3|Hypochlorous acid, calcium salt dry|39|100|9.3|C| |Hypochlorous acid, calcium salt (dry), > 39% available chlorine, >26% in a non hazardous diluent
+7778-54-3|Calcium hypochlorite, hydrated, with not less than 5|0|100|5.1.1|B| |Calcium hypochlorite, hydrated, with not less than 5.5% but not more than 16% water
+7778-54-3|Calcium hypochlorite, hydrated, with not less than 5|0|100|6.1|D|All|Calcium hypochlorite, hydrated, with not less than 5.5% but not more than 16% water
+7778-54-3|Calcium hypochlorite, hydrated, with not less than 5|0|100|6.1|D|oral|Calcium hypochlorite, hydrated, with not less than 5.5% but not more than 16% water
+7778-54-3|Calcium hypochlorite, hydrated, with not less than 5|0|100|8.1|A| |Calcium hypochlorite, hydrated, with not less than 5.5% but not more than 16% water
+7778-54-3|Calcium hypochlorite, hydrated, with not less than 5|0|100|8.2|C| |Calcium hypochlorite, hydrated, with not less than 5.5% but not more than 16% water
+7778-54-3|Calcium hypochlorite, hydrated, with not less than 5|0|100|8.3|A| |Calcium hypochlorite, hydrated, with not less than 5.5% but not more than 16% water
+7778-54-3|Calcium hypochlorite, hydrated, with not less than 5|0|100|9.1|A|All|Calcium hypochlorite, hydrated, with not less than 5.5% but not more than 16% water
+7778-54-3|Calcium hypochlorite, hydrated, with not less than 5|0|100|9.1|A|fish|Calcium hypochlorite, hydrated, with not less than 5.5% but not more than 16% water
+7778-54-3|Calcium hypochlorite, hydrated, with not less than 5|0|100|9.1|A|crustacean|Calcium hypochlorite, hydrated, with not less than 5.5% but not more than 16% water
+7778-54-3|Calcium hypochlorite, hydrated, with not less than 5|0|100|9.2|A| |Calcium hypochlorite, hydrated, with not less than 5.5% but not more than 16% water
+7778-54-3|Calcium hypochlorite, hydrated, with not less than 5|0|100|9.3|C| |Calcium hypochlorite, hydrated, with not less than 5.5% but not more than 16% water
+7778-54-3|Hypochlorous acid, calcium salt dry, 10 - 39|0|100|5.1.1|C| |Hypochlorous acid, calcium salt (dry), 10 - 39% available chlorine
+7778-54-3|Hypochlorous acid, calcium salt dry, 10 - 39|0|100|6.1|D|All|Hypochlorous acid, calcium salt (dry), 10 - 39% available chlorine
+7778-54-3|Hypochlorous acid, calcium salt dry, 10 - 39|0|100|6.1|D|oral|Hypochlorous acid, calcium salt (dry), 10 - 39% available chlorine
+7778-54-3|Hypochlorous acid, calcium salt dry, 10 - 39|0|100|8.1|A| |Hypochlorous acid, calcium salt (dry), 10 - 39% available chlorine
+7778-54-3|Hypochlorous acid, calcium salt dry, 10 - 39|0|100|8.2|C| |Hypochlorous acid, calcium salt (dry), 10 - 39% available chlorine
+7778-54-3|Hypochlorous acid, calcium salt dry, 10 - 39|0|100|8.3|A| |Hypochlorous acid, calcium salt (dry), 10 - 39% available chlorine
+7778-54-3|Hypochlorous acid, calcium salt dry, 10 - 39|0|100|9.1|A|All|Hypochlorous acid, calcium salt (dry), 10 - 39% available chlorine
+7778-54-3|Hypochlorous acid, calcium salt dry, 10 - 39|0|100|9.1|A|fish|Hypochlorous acid, calcium salt (dry), 10 - 39% available chlorine
+7778-54-3|Hypochlorous acid, calcium salt dry, 10 - 39|0|100|9.1|A|crustacean|Hypochlorous acid, calcium salt (dry), 10 - 39% available chlorine
+7778-54-3|Hypochlorous acid, calcium salt dry, 10 - 39|0|100|9.2|A| |Hypochlorous acid, calcium salt (dry), 10 - 39% available chlorine
+7778-54-3|Hypochlorous acid, calcium salt dry, 10 - 39|0|100|9.3|C| |Hypochlorous acid, calcium salt (dry), 10 - 39% available chlorine
+7778-54-3|Hypochlorous acid, calcium salt dry|39|100|5.1.1|B| |Hypochlorous acid, calcium salt (dry), > 39% available chlorine
+7778-54-3|Hypochlorous acid, calcium salt dry|39|100|6.1|D|All|Hypochlorous acid, calcium salt (dry), > 39% available chlorine
+7778-54-3|Hypochlorous acid, calcium salt dry|39|100|6.1|D|oral|Hypochlorous acid, calcium salt (dry), > 39% available chlorine
+7778-54-3|Hypochlorous acid, calcium salt dry|39|100|8.1|A| |Hypochlorous acid, calcium salt (dry), > 39% available chlorine
+7778-54-3|Hypochlorous acid, calcium salt dry|39|100|8.2|B| |Hypochlorous acid, calcium salt (dry), > 39% available chlorine
+7778-54-3|Hypochlorous acid, calcium salt dry|39|100|8.3|A| |Hypochlorous acid, calcium salt (dry), > 39% available chlorine
+7778-54-3|Hypochlorous acid, calcium salt dry|39|100|9.1|A|All|Hypochlorous acid, calcium salt (dry), > 39% available chlorine
+7778-54-3|Hypochlorous acid, calcium salt dry|39|100|9.1|A|fish|Hypochlorous acid, calcium salt (dry), > 39% available chlorine
+7778-54-3|Hypochlorous acid, calcium salt dry|39|100|9.1|A|crustacean|Hypochlorous acid, calcium salt (dry), > 39% available chlorine
+7778-54-3|Hypochlorous acid, calcium salt dry|39|100|9.2|A| |Hypochlorous acid, calcium salt (dry), > 39% available chlorine
+7778-54-3|Hypochlorous acid, calcium salt dry|39|100|9.3|C| |Hypochlorous acid, calcium salt (dry), > 39% available chlorine
+77-92-9|Citric acid|1|3|6.4|A| |Citric acid, >1 - 3% in a non hazardous diluent
+77-92-9|Citric acid|50|100|6.1|E|All|Citric acid, >50% in a non hazardous diluent
+77-92-9|Citric acid|50|100|6.1|E|inhalation|Citric acid, >50% in a non hazardous diluent
+77-92-9|Citric acid|50|100|6.3|B| |Citric acid, >50% in a non hazardous diluent
+77-92-9|Citric acid|50|100|8.3|A| |Citric acid, >50% in a non hazardous diluent
+77-92-9|Citric acid|10|50|6.3|B| |Citric acid, >10 - 50% in a non hazardous diluent
+77-92-9|Citric acid|10|50|8.3|A| |Citric acid, >10 - 50% in a non hazardous diluent
+77-92-9|Citric acid|3|10|8.3|A| |Citric acid, >3 - 10% in a non hazardous diluent
+77-92-9|Citric acid|0|100|6.1|E|All|Citric acid
+77-92-9|Citric acid|0|100|6.1|E|inhalation|Citric acid
+77-92-9|Citric acid|0|100|6.3|B| |Citric acid
+77-92-9|Citric acid|0|100|8.3|A| |Citric acid
+79-14-1|Glycolic acid|5|100|8.2|C| |Glycolic acid, >5% in a non hazardous diluent
+79-14-1|Glycolic acid|5|100|8.3|A| |Glycolic acid, >5% in a non hazardous diluent
+79-14-1|Glycolic acid|0|100|6.1|D|All|Glycolic acid
+79-14-1|Glycolic acid|0|100|6.1|D|oral|Glycolic acid
+79-14-1|Glycolic acid|0|100|6.1|D|inhalation|Glycolic acid
+79-14-1|Glycolic acid|0|100|8.2|B| |Glycolic acid
+79-14-1|Glycolic acid|0|100|8.3|A| |Glycolic acid
+79-14-1|Glycolic acid|0|100|9.1|D|All|Glycolic acid
+79-14-1|Glycolic acid|0|100|9.1|D|fish|Glycolic acid
+8000-29-1|Oils, citronella|0|100|3.1|C| |Oils, citronella
+8000-29-1|Oils, citronella|0|100|6.1|D|All|Oils, citronella
+8000-29-1|Oils, citronella|0|100|6.1|D|inhalation|Oils, citronella
+8000-29-1|Oils, citronella|0|100|6.1|E|dermal|Oils, citronella
+8000-29-1|Oils, citronella|0|100|6.3|A| |Oils, citronella
+8000-29-1|Oils, citronella|0|100|6.4|A| |Oils, citronella
+8000-29-1|Oils, citronella|0|100|9.1|C|All|Oils, citronella
+8000-29-1|Oils, citronella|0|100|9.1|C|fish|Oils, citronella
+8000-29-1|Oils, citronella|0|100|9.1|C|crustacean|Oils, citronella
+8000-48-4|Oil, eucalyptus|0|100|3.1|C| |Oil, eucalyptus
+8000-48-4|Oil, eucalyptus|0|100|6.1|D|All|Oil, eucalyptus
+8000-48-4|Oil, eucalyptus|0|100|6.1|D|oral|Oil, eucalyptus
+8000-48-4|Oil, eucalyptus|0|100|6.1|E|dermal|Oil, eucalyptus
+8000-48-4|Oil, eucalyptus|0|100|6.3|A| |Oil, eucalyptus
+8000-48-4|Oil, eucalyptus|0|100|6.4|A| |Oil, eucalyptus
+8000-48-4|Oil, eucalyptus|0|100|9.2|D| |Oil, eucalyptus
+8000-48-4|Oil, eucalyptus|0|100|9.4|C| |Oil, eucalyptus
+8001-54-5|Benzalkonium chloride|1|5|6.1|E|All|Benzalkonium chloride, >1 - 5% in a non hazardous diluent
+8001-54-5|Benzalkonium chloride|1|5|6.1|E|oral|Benzalkonium chloride, >1 - 5% in a non hazardous diluent
+8001-54-5|Benzalkonium chloride|1|5|6.3|A| |Benzalkonium chloride, >1 - 5% in a non hazardous diluent
+8001-54-5|Benzalkonium chloride|1|5|6.4|A| |Benzalkonium chloride, >1 - 5% in a non hazardous diluent
+8001-54-5|Benzalkonium chloride|1|5|6.5|A|respiratory|Benzalkonium chloride, >1 - 5% in a non hazardous diluent
+8001-54-5|Benzalkonium chloride|1|5|6.5|B|contact|Benzalkonium chloride, >1 - 5% in a non hazardous diluent
+8001-54-5|Benzalkonium chloride|1|5|6.9|B|All|Benzalkonium chloride, >1 - 5% in a non hazardous diluent
+8001-54-5|Benzalkonium chloride|1|5|6.9|B|dermal|Benzalkonium chloride, >1 - 5% in a non hazardous diluent
+8001-54-5|Benzalkonium chloride|1|5|9.1|B|All|Benzalkonium chloride, >1 - 5% in a non hazardous diluent
+8001-54-5|Benzalkonium chloride|1|5|9.1|B|fish|Benzalkonium chloride, >1 - 5% in a non hazardous diluent
+8001-54-5|Benzalkonium chloride|1|5|9.1|B|crustacean|Benzalkonium chloride, >1 - 5% in a non hazardous diluent
+8001-54-5|Benzalkonium chloride|1|5|9.1|B|algal|Benzalkonium chloride, >1 - 5% in a non hazardous diluent
+8001-54-5|Benzalkonium chloride|33|100|6.1|C|All|Benzalkonium chloride, >33% in a non hazardous diluent
+8001-54-5|Benzalkonium chloride|33|100|6.1|C|oral|Benzalkonium chloride, >33% in a non hazardous diluent
+8001-54-5|Benzalkonium chloride|33|100|6.5|A|respiratory|Benzalkonium chloride, >33% in a non hazardous diluent
+8001-54-5|Benzalkonium chloride|33|100|6.5|B|contact|Benzalkonium chloride, >33% in a non hazardous diluent
+8001-54-5|Benzalkonium chloride|33|100|6.9|B|All|Benzalkonium chloride, >33% in a non hazardous diluent
+8001-54-5|Benzalkonium chloride|33|100|6.9|B|dermal|Benzalkonium chloride, >33% in a non hazardous diluent
+8001-54-5|Benzalkonium chloride|33|100|8.2|C| |Benzalkonium chloride, >33% in a non hazardous diluent
+8001-54-5|Benzalkonium chloride|33|100|8.3|A| |Benzalkonium chloride, >33% in a non hazardous diluent
+8001-54-5|Benzalkonium chloride|33|100|9.1|A|All|Benzalkonium chloride, >33% in a non hazardous diluent
+8001-54-5|Benzalkonium chloride|33|100|9.1|A|fish|Benzalkonium chloride, >33% in a non hazardous diluent
+8001-54-5|Benzalkonium chloride|33|100|9.1|A|crustacean|Benzalkonium chloride, >33% in a non hazardous diluent
+8001-54-5|Benzalkonium chloride|33|100|9.1|A|algal|Benzalkonium chloride, >33% in a non hazardous diluent
+8001-54-5|Benzalkonium chloride|33|100|9.3|B| |Benzalkonium chloride, >33% in a non hazardous diluent
+8001-54-5|Benzalkonium chloride|5|25|6.1|D|All|Benzalkonium chloride, >5 - 25% in a non hazardous diluent
+8001-54-5|Benzalkonium chloride|5|25|6.1|D|oral|Benzalkonium chloride, >5 - 25% in a non hazardous diluent
+8001-54-5|Benzalkonium chloride|5|25|6.5|A|respiratory|Benzalkonium chloride, >5 - 25% in a non hazardous diluent
+8001-54-5|Benzalkonium chloride|5|25|6.5|B|contact|Benzalkonium chloride, >5 - 25% in a non hazardous diluent
+8001-54-5|Benzalkonium chloride|5|25|6.9|B|All|Benzalkonium chloride, >5 - 25% in a non hazardous diluent
+8001-54-5|Benzalkonium chloride|5|25|6.9|B|dermal|Benzalkonium chloride, >5 - 25% in a non hazardous diluent
+8001-54-5|Benzalkonium chloride|5|25|8.2|C| |Benzalkonium chloride, >5 - 25% in a non hazardous diluent
+8001-54-5|Benzalkonium chloride|5|25|8.3|A| |Benzalkonium chloride, >5 - 25% in a non hazardous diluent
+8001-54-5|Benzalkonium chloride|5|25|9.1|B|All|Benzalkonium chloride, >5 - 25% in a non hazardous diluent
+8001-54-5|Benzalkonium chloride|5|25|9.1|B|fish|Benzalkonium chloride, >5 - 25% in a non hazardous diluent
+8001-54-5|Benzalkonium chloride|5|25|9.1|B|crustacean|Benzalkonium chloride, >5 - 25% in a non hazardous diluent
+8001-54-5|Benzalkonium chloride|5|25|9.1|B|algal|Benzalkonium chloride, >5 - 25% in a non hazardous diluent
+8001-54-5|Benzalkonium chloride|5|25|9.3|C| |Benzalkonium chloride, >5 - 25% in a non hazardous diluent
+8001-54-5|Benzalkonium chloride|0|100|6.1|C|All|Benzalkonium chloride
+8001-54-5|Benzalkonium chloride|0|100|6.1|C|oral|Benzalkonium chloride
+8001-54-5|Benzalkonium chloride|0|100|6.1|D|dermal|Benzalkonium chloride
+8001-54-5|Benzalkonium chloride|0|100|6.5|A|respiratory|Benzalkonium chloride
+8001-54-5|Benzalkonium chloride|0|100|6.5|B|contact|Benzalkonium chloride
+8001-54-5|Benzalkonium chloride|0|100|6.9|B|All|Benzalkonium chloride
+8001-54-5|Benzalkonium chloride|0|100|6.9|B|dermal|Benzalkonium chloride
+8001-54-5|Benzalkonium chloride|0|100|8.2|C| |Benzalkonium chloride
+8001-54-5|Benzalkonium chloride|0|100|8.3|A| |Benzalkonium chloride
+8001-54-5|Benzalkonium chloride|0|100|9.1|A|All|Benzalkonium chloride
+8001-54-5|Benzalkonium chloride|0|100|9.1|A|fish|Benzalkonium chloride
+8001-54-5|Benzalkonium chloride|0|100|9.1|A|crustacean|Benzalkonium chloride
+8001-54-5|Benzalkonium chloride|0|100|9.1|A|algal|Benzalkonium chloride
+8001-54-5|Benzalkonium chloride|0|100|9.3|B| |Benzalkonium chloride
+7173-51-5|Didecyl dimethyl ammonium chloride|0|100|3.1|C| |Didecyl dimethyl ammonium chloride
+7173-51-5|Didecyl dimethyl ammonium chloride|0|100|6.1|C|All|Didecyl dimethyl ammonium chloride
+7173-51-5|Didecyl dimethyl ammonium chloride|0|100|6.1|C|oral|Didecyl dimethyl ammonium chloride
+7173-51-5|Didecyl dimethyl ammonium chloride|0|100|6.5|B|contact|Didecyl dimethyl ammonium chloride
+7173-51-5|Didecyl dimethyl ammonium chloride|0|100|8.2|B| |Didecyl dimethyl ammonium chloride
+7173-51-5|Didecyl dimethyl ammonium chloride|0|100|8.3|A| |Didecyl dimethyl ammonium chloride
+7173-51-5|Didecyl dimethyl ammonium chloride|0|100|9.1|A|All|Didecyl dimethyl ammonium chloride
+7173-51-5|Didecyl dimethyl ammonium chloride|0|100|9.1|A|fish|Didecyl dimethyl ammonium chloride
+7173-51-5|Didecyl dimethyl ammonium chloride|0|100|9.1|A|crustacean|Didecyl dimethyl ammonium chloride
+7173-51-5|Didecyl dimethyl ammonium chloride|0|100|9.1|A|algal|Didecyl dimethyl ammonium chloride
+7173-51-5|Didecyl dimethyl ammonium chloride|0|100|9.3|B| |Didecyl dimethyl ammonium chloride
+8002-09-3|Oils, pine flammable|0|100|3.1|D| |Oils, pine (flammable; flashpoint 60-93C)
+8002-09-3|Oils, pine flammable|0|100|6.1|E|All|Oils, pine (flammable; flashpoint 60-93C)
+8002-09-3|Oils, pine flammable|0|100|6.1|E|oral|Oils, pine (flammable; flashpoint 60-93C)
+8002-09-3|Oils, pine flammable|0|100|6.1|E|dermal|Oils, pine (flammable; flashpoint 60-93C)
+8002-09-3|Oils, pine flammable|0|100|6.3|A| |Oils, pine (flammable; flashpoint 60-93C)
+8002-09-3|Oils, pine flammable|0|100|6.4|A| |Oils, pine (flammable; flashpoint 60-93C)
+8002-09-3|Oils, pine flammable|0|100|9.1|C|All|Oils, pine (flammable; flashpoint 60-93C)
+8002-09-3|Oils, pine flammable|0|100|9.1|C|fish|Oils, pine (flammable; flashpoint 60-93C)
+8002-09-3|Oils, pine flammable|0|100|9.1|C|crustacean|Oils, pine (flammable; flashpoint 60-93C)
+8002-09-3|Oils, pine flammable|0|100|3.1|C| |Oils, pine (flammable; flashpoint 23-60C)
+8002-09-3|Oils, pine flammable|0|100|6.1|E|All|Oils, pine (flammable; flashpoint 23-60C)
+8002-09-3|Oils, pine flammable|0|100|6.1|E|oral|Oils, pine (flammable; flashpoint 23-60C)
+8002-09-3|Oils, pine flammable|0|100|6.1|E|dermal|Oils, pine (flammable; flashpoint 23-60C)
+8002-09-3|Oils, pine flammable|0|100|6.3|A| |Oils, pine (flammable; flashpoint 23-60C)
+8002-09-3|Oils, pine flammable|0|100|6.4|A| |Oils, pine (flammable; flashpoint 23-60C)
+8002-09-3|Oils, pine flammable|0|100|9.1|C|All|Oils, pine (flammable; flashpoint 23-60C)
+8002-09-3|Oils, pine flammable|0|100|9.1|C|fish|Oils, pine (flammable; flashpoint 23-60C)
+8002-09-3|Oils, pine flammable|0|100|9.1|C|crustacean|Oils, pine (flammable; flashpoint 23-60C)
+8007-02-1|Oil, lemongrass|0|100|6.1|E|All|Oil, lemongrass
+8007-02-1|Oil, lemongrass|0|100|6.1|E|oral|Oil, lemongrass
+8007-02-1|Oil, lemongrass|0|100|6.3|A| |Oil, lemongrass
+8007-02-1|Oil, lemongrass|0|100|6.5|B|contact|Oil, lemongrass
+81-88-9|Xanthylium, 9-2-carboxyphenyl-3,6-bisdiethylamino-, chloride|0|100|6.1|C|All|Xanthylium, 9-(2-carboxyphenyl)-3,6-bis(diethylamino)-, chloride
+81-88-9|Xanthylium, 9-2-carboxyphenyl-3,6-bisdiethylamino-, chloride|0|100|6.1|C|oral|Xanthylium, 9-(2-carboxyphenyl)-3,6-bis(diethylamino)-, chloride
+81-88-9|Xanthylium, 9-2-carboxyphenyl-3,6-bisdiethylamino-, chloride|0|100|6.3|B| |Xanthylium, 9-(2-carboxyphenyl)-3,6-bis(diethylamino)-, chloride
+81-88-9|Xanthylium, 9-2-carboxyphenyl-3,6-bisdiethylamino-, chloride|0|100|6.4|A| |Xanthylium, 9-(2-carboxyphenyl)-3,6-bis(diethylamino)-, chloride
+81-88-9|Xanthylium, 9-2-carboxyphenyl-3,6-bisdiethylamino-, chloride|0|100|6.9|B|All|Xanthylium, 9-(2-carboxyphenyl)-3,6-bis(diethylamino)-, chloride
+81-88-9|Xanthylium, 9-2-carboxyphenyl-3,6-bisdiethylamino-, chloride|0|100|6.9|B|oral|Xanthylium, 9-(2-carboxyphenyl)-3,6-bis(diethylamino)-, chloride
+81-88-9|Xanthylium, 9-2-carboxyphenyl-3,6-bisdiethylamino-, chloride|0|100|9.1|C|All|Xanthylium, 9-(2-carboxyphenyl)-3,6-bis(diethylamino)-, chloride
+81-88-9|Xanthylium, 9-2-carboxyphenyl-3,6-bisdiethylamino-, chloride|0|100|9.1|C|fish|Xanthylium, 9-(2-carboxyphenyl)-3,6-bis(diethylamino)-, chloride
+81-88-9|Xanthylium, 9-2-carboxyphenyl-3,6-bisdiethylamino-, chloride|0|100|9.1|C|crustacean|Xanthylium, 9-(2-carboxyphenyl)-3,6-bis(diethylamino)-, chloride
+81-88-9|Xanthylium, 9-2-carboxyphenyl-3,6-bisdiethylamino-, chloride|0|100|9.2|C| |Xanthylium, 9-(2-carboxyphenyl)-3,6-bis(diethylamino)-, chloride
+81-88-9|Xanthylium, 9-2-carboxyphenyl-3,6-bisdiethylamino-, chloride|0|100|9.3|B| |Xanthylium, 9-(2-carboxyphenyl)-3,6-bis(diethylamino)-, chloride
+84133-50-6|Alcohols, C12-14-secondary, ethoxylated|0|100|6.1|E|All|Alcohols, C12-14-secondary, ethoxylated
+84133-50-6|Alcohols, C12-14-secondary, ethoxylated|0|100|6.1|E|oral|Alcohols, C12-14-secondary, ethoxylated
+84133-50-6|Alcohols, C12-14-secondary, ethoxylated|0|100|6.3|B| |Alcohols, C12-14-secondary, ethoxylated
+84133-50-6|Alcohols, C12-14-secondary, ethoxylated|0|100|6.4|A| |Alcohols, C12-14-secondary, ethoxylated
+84133-50-6|Alcohols, C12-14-secondary, ethoxylated|0|100|9.1|A|All|Alcohols, C12-14-secondary, ethoxylated
+84133-50-6|Alcohols, C12-14-secondary, ethoxylated|0|100|9.1|A|crustacean|Alcohols, C12-14-secondary, ethoxylated
+84133-50-6|Alcohols, C12-14-secondary, ethoxylated|0|100|9.1|A|algal|Alcohols, C12-14-secondary, ethoxylated
+84133-50-6|Alcohols, C12-14-secondary, ethoxylated|0|100|9.1|D|fish|Alcohols, C12-14-secondary, ethoxylated
+84133-50-6|Alcohols, C12-14-secondary, ethoxylated|0|100|9.3|C| |Alcohols, C12-14-secondary, ethoxylated
+872-50-4|Methylpyrrolidone|1|10|6.3|B| |Methylpyrrolidone, >1 - 10% in a non hazardous diluent
+872-50-4|Methylpyrrolidone|1|10|6.8|A| |Methylpyrrolidone, >1 - 10% in a non hazardous diluent
+872-50-4|Methylpyrrolidone|70|100|3.1|D| |Methylpyrrolidone, >70% in a non hazardous diluent
+872-50-4|Methylpyrrolidone|70|100|6.1|E|All|Methylpyrrolidone, >70% in a non hazardous diluent
+872-50-4|Methylpyrrolidone|70|100|6.1|E|oral|Methylpyrrolidone, >70% in a non hazardous diluent
+872-50-4|Methylpyrrolidone|70|100|6.3|A| |Methylpyrrolidone, >70% in a non hazardous diluent
+872-50-4|Methylpyrrolidone|70|100|6.4|A| |Methylpyrrolidone, >70% in a non hazardous diluent
+872-50-4|Methylpyrrolidone|70|100|6.8|A| |Methylpyrrolidone, >70% in a non hazardous diluent
+872-50-4|Methylpyrrolidone|25|70|3.1|D| |Methylpyrrolidone, >25 - 70% in a non hazardous diluent
+872-50-4|Methylpyrrolidone|25|70|6.3|A| |Methylpyrrolidone, >25 - 70% in a non hazardous diluent
+872-50-4|Methylpyrrolidone|25|70|6.4|A| |Methylpyrrolidone, >25 - 70% in a non hazardous diluent
+872-50-4|Methylpyrrolidone|25|70|6.8|A| |Methylpyrrolidone, >25 - 70% in a non hazardous diluent
+872-50-4|2-Pyrrolidinone, 1-methyl-|0|100|3.1|D| |2-Pyrrolidinone, 1-methyl-
+872-50-4|2-Pyrrolidinone, 1-methyl-|0|100|6.1|E|All|2-Pyrrolidinone, 1-methyl-
+872-50-4|2-Pyrrolidinone, 1-methyl-|0|100|6.1|E|oral|2-Pyrrolidinone, 1-methyl-
+872-50-4|2-Pyrrolidinone, 1-methyl-|0|100|6.3|A| |2-Pyrrolidinone, 1-methyl-
+872-50-4|2-Pyrrolidinone, 1-methyl-|0|100|6.4|A| |2-Pyrrolidinone, 1-methyl-
+872-50-4|2-Pyrrolidinone, 1-methyl-|0|100|6.8|A| |2-Pyrrolidinone, 1-methyl-
+89-78-1|Racementhol|0|100|6.1|E|All|Racementhol
+89-78-1|Racementhol|0|100|6.1|E|oral|Racementhol
+89-78-1|Racementhol|0|100|6.3|A| |Racementhol
+89-78-1|Racementhol|0|100|6.4|A| |Racementhol
+89-78-1|Racementhol|0|100|9.1|D|All|Racementhol
+89-78-1|Racementhol|0|100|9.1|D|fish|Racementhol
+89-78-1|Racementhol|0|100|9.1|D|crustacean|Racementhol
+89-78-1|Racementhol|0|100|9.1|D|algal|Racementhol
+89-78-1|Racementhol|0|100|9.2|D| |Racementhol

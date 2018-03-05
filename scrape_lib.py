@@ -8,6 +8,8 @@ class cas_class:
         self.cas_no = cas_in.replace('\n','')
         self.conc_urls = self.get_conc_urls()
         self.conc_objects = {}
+        if self.cas_found == False:
+            return
         for title in self.conc_urls.keys():
             self.conc_objects[title] = conc_class(self.conc_urls[title],title)
             time.sleep(0.25)
@@ -17,6 +19,13 @@ class cas_class:
         r = requests.get(url_base,header)
         data = r.text
         soup_base = BeautifulSoup(data, 'html.parser')
+
+        for f in soup_base.find_all('p'):
+            if f.get_text() == "Sorry, your search query did not return any results.":
+                self.cas_found = False
+                return
+            else:
+                self.cas_found = True
 
         titles = soup_base.find_all('h5',class_='result__title')
         link_dict = {}
@@ -34,15 +43,15 @@ class cas_class:
         str_out= ''
         for i in self.conc_objects.keys():
            for j in self.conc_objects[i].haz_dict.keys():
-               str_out += self.cas_no + ',' + self.conc_objects[i].raw_name + ',' 
-               str_out += str(self.conc_objects[i].lower_conc) + ',' + str(self.conc_objects[i].upper_conc) + ',' + str(self.conc_objects[i].haz_dict[j].class_num) + ','  + self.conc_objects[i].haz_dict[j].class_abc + ',' + self.conc_objects[i].haz_dict[j].route + '\n'
+               str_out += self.cas_no + '|'+ self.conc_objects[i].raw_name + '|'
+               str_out += str(self.conc_objects[i].lower_conc) + '|'+ str(self.conc_objects[i].upper_conc) + '|'+ str(self.conc_objects[i].haz_dict[j].class_num) + '|' + self.conc_objects[i].haz_dict[j].class_abc + '|'+ self.conc_objects[i].haz_dict[j].route + '|' + self.conc_objects[i].title +  '\n'
         
         return str_out
 class conc_class:
     def __init__(self, url_in,title_in):
         self.page_url = url_in
         self.haz_dict = {}
-        self.title = title_in
+        self.title = title_in.replace('≤','<').replace('≥','>')
         r = requests.get(self.page_url,header)
         data = r.text
         soup_conc = BeautifulSoup(data,'html.parser')
@@ -56,7 +65,7 @@ class conc_class:
     def parse_title(self):
         #This is probably clunky as hell, but I'm learnt regex an hour ago
         #and I'm aiming for readability here, mmmkay?
-        reg = re.search(r'([\w\s,]*)([><][\d\s-]*%)?(.*)',self.title)
+        reg = re.search(r'([\w\s,\-\[\]]*)([><][\d\s\-]*%)?(.*)',self.title.replace("(","").replace(")",""))
         if reg.group(2) is None:
             self.lower_conc, self.upper_conc = (0,100)
         else:
@@ -68,43 +77,20 @@ class conc_class:
             self.raw_name = reg.group(1)
 
     def parse_range(self,range_in_str):
-        reg_range = re.search(r'^[<>]?([\d\.]{1,3})[\s\-]*([\d\.]{1,3})?%$',range_in_str) #Damn do I hate regex
-        self.lower_conc  = reg_range.group(1) if reg_range.group(1) is not None else 0
-        self.upper_conc  = reg_range.group(2) if reg_range.group(2) is not None else 100
-
-    def parse_title_OLD(self):
-        #Kept around until regex is working 100%
-        str_shrink = self.title.replace(" ", '')
-        comma_coord =str_shrink.find(",")
-        percent_coord = str_shrink.find("%")
-        dash_coord = str_shrink.find("-")
-        less_coord = str_shrink.find("<")
-        great_coord = str_shrink.find(">")
-
-        if percent_coord == -1 and comma_coord == -1:
-            upper = 100
-            lower = 0
-        elif dash_coord == -1:
-            if less_coord >= 0:
-                lower = 0
-                upper = str_shrink[less_coord+1:percent_coord]
-            elif great_coord >= 0:
-                lower = str_shrink[great_coord+1:percent_coord]
-                upper = 100
+        reg_range = re.search(r'^[<>]? ?([\d\.]{1,4})[\s\-]*([\d\.]{1,4})?%$',range_in_str) #Damn do I hate regex
+        if reg_range.group(2) is None:
+            if range_in_str[0] == ">":
+                self.lower_conc = reg_range.group(1)
+                self.upper_conc = 100
+            elif range_in_str[0] == "<":
+                self.lower_conc = 0
+                self.upper_conc = reg_range.group(1)
             else:
-                lower = "What unholy sorcery"
-                upper = " is this?"
+                self.lower_conc = "error:"
+                self.upper_conc = "unknown range"
         else:
-            lower = str_shrink[comma_coord+1:dash_coord]
-            upper = str_shrink[dash_coord+1:percent_coord]
-
-        (self.lower_conc, self.upper_conc) = lower, upper
-        if comma_coord == -1:
-            self.raw_name = self.title
-            self.solu_type = 'n/a'
-        else:
-            self.raw_name = self.title[:self.title.find(',')]
-            self.solu_type = self.title[self.title.find('%'):]
+            self.lower_conc = reg_range.group(1)
+            self.upper_conc = reg_range.group(2)
 
     def return_all_haz(self):
         str_out = ' '
