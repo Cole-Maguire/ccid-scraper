@@ -1,4 +1,4 @@
-from lc50-lib import cas_class
+from lc50_lib import cas_class
 import time
 import random
 

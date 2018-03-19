@@ -25,22 +25,28 @@ class cas_class:
             self.error_code = 404
             return
         else:
-            if time_to_sleep > 30:
+            if time_to_sleep > 15:
                 self.error_code = r.status_code 
                 return
             print ("WAITING FOR " + str(time_to_sleep) + " SECS - " +url_base)
             time.sleep(time_to_sleep)
-            self.get_tox(time_to_sleep+10)
+            self.get_tox(time_to_sleep+3)
         if soup_base.find('div',text = "No results for Registry Number starts with") is not None:
                self.error_code = r.status_code
                print("Page not found")
                return
     #END ERROR CHECKING
         h1Text = soup_base.find('h1')
-        h1Text = h1Text.contents[0].replace(u'\xa0', u' ')
-        re_result = re.search(r'Substance Name:\s([\w\s\-\.]*)',h1Text)
-        self.sub_name = re_result.group(1)
-        print (self.sub_name)
+        if h1Text is not None:
+            h1Text = h1Text.contents[0].replace(u'\xa0', u' ')
+            re_result = re.search(r'Substance Name:\s([\w\s\-\.]*)',h1Text)
+            self.sub_name = re_result.group(1)
+            print (self.sub_name)
+        else:
+            self.sub_name = ''
+
+        # self.sub_name = soup_base.find('h3',text='Name of Substance').find_next("li").get_text()
+        # print(self.sub_name)
         tox_table = soup_base.find('table',class_ = "prop")
         if tox_table is None: return
         if tox_table.parent.parent['id'] != 'toxicity': return
