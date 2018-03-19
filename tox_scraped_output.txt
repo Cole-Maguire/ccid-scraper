@@ -1,0 +1,422 @@
+100-51-6|Benzyl alcohol |bird - wild|LD50|oral|100mg/kg (100mg/kg)| |Toxicology and Applied Pharmacology.  Vol. 21, Pg. 315, 1972.
+100-51-6|Benzyl alcohol |cat|LDLo|intravenous|625mg/kg (625mg/kg)| |Journal of Pharmacology and Experimental Therapeutics.  Vol. 16, Pg. 1, 1920.
+100-51-6|Benzyl alcohol |cat|LDLo|skin|10gm/kg (10000mg/kg)|GASTROINTESTINAL: CHANGES IN STRUCTURE OR FUNCTION OF SALIVARY GLANDSBEHAVIORAL: MUSCLE WEAKNESSBEHAVIORAL: TREMOR|Journal of Pharmacology and Experimental Therapeutics.  Vol. 84, Pg. 358, 1945.
+100-51-6|Benzyl alcohol |dog|LDLo|intravenous|50mg/kg (50mg/kg)|LUNGS, THORAX, OR RESPIRATION: DYSPNEABEHAVIORAL: ATAXIAGASTROINTESTINAL: "HYPERMOTILITY, DIARRHEA"|Toxicology and Applied Pharmacology.  Vol. 18, Pg. 60, 1971.
+100-51-6|Benzyl alcohol |dog|LDLo|parenteral|9mg/kg (9mg/kg)|BEHAVIORAL: TREMORLUNGS, THORAX, OR RESPIRATION: OTHER CHANGES|Toxicology and Applied Pharmacology.  Vol. 25, Pg. 153, 1973.
+100-51-6|Benzyl alcohol |guinea pig|LD50|oral|2500mg/kg (2500mg/kg)| |Gigiena i Sanitariya.  For English translation, see HYSAAV.  Vol. 50(7), Pg. 81, 1985.
+100-51-6|Benzyl alcohol |mouse|LD50|intraperitoneal|650mg/kg (650mg/kg)|LUNGS, THORAX, OR RESPIRATION: DYSPNEABEHAVIORAL: SOMNOLENCE (GENERAL DEPRESSED ACTIVITY)BEHAVIORAL: ALTERED SLEEP TIME (INCLUDING CHANGE IN RIGHTING REFLEX)|Journal of Pharmaceutical Sciences.  Vol. 75, Pg. 702, 1986.
+100-51-6|Benzyl alcohol |mouse|LD50|intravenous|324mg/kg (324mg/kg)| |Archives Internationales de Pharmacodynamie et de Therapie.  Vol. 135, Pg. 330, 1962.
+100-51-6|Benzyl alcohol |mouse|LD50|oral|1360mg/kg (1360mg/kg)| |Gigiena i Sanitariya.  For English translation, see HYSAAV.  Vol. 50(7), Pg. 81, 1985.
+100-51-6|Benzyl alcohol |rabbit|LD50|oral|1040mg/kg (1040mg/kg)|BEHAVIORAL: SOMNOLENCE (GENERAL DEPRESSED ACTIVITY)|Journal of Pharmacology and Experimental Therapeutics.  Vol. 84, Pg. 358, 1945.
+100-51-6|Benzyl alcohol |rabbit|LD50|skin|2gm/kg (2000mg/kg)| |Raw Material Data Handbook, Vol.1: Organic Solvents, 1974.  Vol. 1, Pg. 6, 1974.
+100-51-6|Benzyl alcohol |rat|LCLo|inhalation|1000ppm/8H (1000ppm)| |AMA Archives of Industrial Hygiene and Occupational Medicine.  Vol. 4, Pg. 119, 1951.
+100-51-6|Benzyl alcohol |rat|LD50|intraarterial|441mg/kg (441mg/kg)|LUNGS, THORAX, OR RESPIRATION: DYSPNEALUNGS, THORAX, OR RESPIRATION: CHRONIC PULMONARY EDEMA|Toxicology and Applied Pharmacology.  Vol. 18, Pg. 60, 1971.
+100-51-6|Benzyl alcohol |rat|LD50|intraperitoneal|400mg/kg (400mg/kg)| |Raw Material Data Handbook, Vol.1: Organic Solvents, 1974.  Vol. 1, Pg. 6, 1974.
+100-51-6|Benzyl alcohol |rat|LD50|intravenous|53mg/kg (53mg/kg)|LUNGS, THORAX, OR RESPIRATION: DYSPNEA|Toxicology and Applied Pharmacology.  Vol. 18, Pg. 60, 1971.
+100-51-6|Benzyl alcohol |rat|LD50|oral|1230mg/kg (1230mg/kg)|BEHAVIORAL: COMABEHAVIORAL: SOMNOLENCE (GENERAL DEPRESSED ACTIVITY)BEHAVIORAL: EXCITEMENT|Food and Cosmetics Toxicology.  Vol. 2, Pg. 327, 1964.
+100-51-6|Benzyl alcohol |rat|LDLo|subcutaneous|1700mg/kg (1700mg/kg)|BEHAVIORAL: COMAKIDNEY, URETER, AND BLADDER: OTHER CHANGES SENSE ORGANS AND SPECIAL SENSES: MIOSIS (PUPILLARY CONSTRICTION): EYE|Revue Medicale de la Suisse Romande.  Vol. 15, Pg. 561, 1895.
+10102-17-7|Sodium thiosulfate |dog|LDLo|intravenous|3gm/kg (3000mg/kg)|CARDIAC: PULSE RATE INCREASE WITHOUT FALL IN BPVASCULAR: BP ELEVATION NOT CHARACTERIZED IN AUTONOMIC SECTIONLUNGS, THORAX, OR RESPIRATION: RESPIRATORY STIMULATION|Cancer Chemotherapy Reports.  Vol. 50, Pg. 255, 1966.
+10102-17-7|Sodium thiosulfate |human|TDLo|oral|300mg/kg/7D (300mg/kg)|LUNGS, THORAX, OR RESPIRATION: CYANOSIS|Tohoku Journal of Experimental Medicine.  Vol. 63, Pg. 383, 1956.
+10102-17-7|Sodium thiosulfate |mouse|LD50|intraperitoneal|5600mg/kg (5600mg/kg)| |Arzneimittel-Forschung. Drug Research.  Vol. 31, Pg. 1713, 1981.
+10102-17-7|Sodium thiosulfate |mouse|LD50|intravenous|2350mg/kg (2350mg/kg)|LUNGS, THORAX, OR RESPIRATION: OTHER CHANGESBEHAVIORAL: CONVULSIONS OR EFFECT ON SEIZURE THRESHOLDBEHAVIORAL: ATAXIA|Kiso to Rinsho.  Clinical Report.  Vol. 13, Pg. 89, 1979.
+10102-17-7|Sodium thiosulfate |rat|LD50|intravenous|> 2500mg/kg (2500mg/kg)| |Yakkyoku.  Pharmacy.  Vol. 31, Pg. 959, 1980.
+10213-79-3|Silicic acid|rat|LD50|oral|847mg/kg (847mg/kg)| |National Technical Information Service.  Vol. OTS0571941, 
+102-71-6|Trolamine |guinea pig|LD50|oral|2200mg/kg (2200mg/kg)| |"Toxicometric Parameters of Industrial Toxic Chemicals Under Single Exposure," Izmerov, N.F., et al., Moscow, Centre of International Projects, GKNT, 1982Vol. -, Pg. 114, 1982.
+102-71-6|Trolamine |mammal (species unspecified)|LDLo|oral|2gm/kg (2000mg/kg)| |National Technical Information Service.  Vol. OTS0520710, 
+102-71-6|Trolamine |mouse|LD50|intraperitoneal|1450mg/kg (1450mg/kg)| |Russian Chemical Reviws Vol. 38, Pg. 975, 1969.
+102-71-6|Trolamine |mouse|LD50|oral|5846mg/kg (5846mg/kg)|GASTROINTESTINAL: "HYPERMOTILITY, DIARRHEA"KIDNEY, URETER, AND BLADDER: OTHER CHANGES BEHAVIORAL: CONVULSIONS OR EFFECT ON SEIZURE THRESHOLD|Science Reports of the Research Institutes, Tohoku University, Series C: Medicine. Vol. 36(1-4), Pg. 10, 1989.
+102-71-6|Trolamine |rabbit|LD50|oral|2200mg/kg (2200mg/kg)| |"Toxicometric Parameters of Industrial Toxic Chemicals Under Single Exposure," Izmerov, N.F., et al., Moscow, Centre of International Projects, GKNT, 1982Vol. -, Pg. 114, 1982.
+102-71-6|Trolamine |rabbit|LD50|skin|> 20mL/kg (20mL/kg)| |Union Carbide Data Sheet.  Vol. 3/18/1965, 
+102-71-6|Trolamine |rat|LD50|intraperitoneal|1510mg/kg (1510mg/kg)| |National Technical Information Service.  Vol. OTS0516797, 
+102-71-6|Trolamine |rat|LD50|oral|4920uL/kg (4.92mL/kg)|SKIN AND APPENDAGES (SKIN): HAIR: OTHERSENSE ORGANS AND SPECIAL SENSES: LACRIMATION: EYEGASTROINTESTINAL: "HYPERMOTILITY, DIARRHEA"|National Technical Information Service.  Vol. OTS0516797, 
+102-71-6|Trolamine |rat|LD50|skin|> 16mL/kg (16mL/kg)| |National Technical Information Service.  Vol. OTS0516797, 
+106-46-7|1|cat|LCLo|inhalation|37gm/m3/30M (37000mg/m3)|BEHAVIORAL: GENERAL ANESTHETIC|Yakkyoku.  Pharmacy.  Vol. 38, Pg. 1045, 1987.
+106-46-7|1|guinea pig|LDLo|oral|2800mg/kg (2800mg/kg)| |AMA Archives of Industrial Health.  Vol. 14, Pg. 138, 1956.
+106-46-7|1|human|LDLo|oral|857mg/kg (857mg/kg)| |"Toxicology of Drugs and Chemicals," Deichmann, W.B., New York, Academic Press, Inc., 1969Vol. -, Pg. 210, 1969.
+106-46-7|1|human|LDLo|unreported|357mg/kg (357mg/kg)| |Yakkyoku.  Pharmacy.  Vol. 31, Pg. 1499, 1980.
+106-46-7|1|human|TDLo|oral|300mg/kg (300mg/kg)|SENSE ORGANS AND SPECIAL SENSES: OTHER: EYELUNGS, THORAX, OR RESPIRATION: OTHER CHANGESGASTROINTESTINAL: "HYPERMOTILITY, DIARRHEA"|Pesticide Chemicals Official Compendium, Association of the American Pesticide Control Officials, Inc., 1966.  Vol. -, Pg. 851, 1966.
+106-46-7|1|mammal (species unspecified)|LC50|inhalation|12gm/m3 (12000mg/m3)| |Gigiena Truda i Professional'nye Zabolevaniya.  Labor Hygiene and Occupational Diseases. Vol. 32(10), Pg. 25, 1988.
+106-46-7|1|mammal (species unspecified)|LD50|oral|2600mg/kg (2600mg/kg)| |Gigiena Truda i Professional'nye Zabolevaniya.  Labor Hygiene and Occupational Diseases. Vol. 32(10), Pg. 25, 1988.
+106-46-7|1|man|LDLo|unreported|221mg/kg (221mg/kg)| |"Poisoning; Toxicology, Symptoms, Treatments," 2nd ed., Arena, J.M., Springfield, IL, C.C. Thomas, 1970Vol. 2, Pg. 73, 1970.
+106-46-7|1|mouse|LD50|intraperitoneal|2gm/kg (2000mg/kg)| |Mutagenesis. Vol. 2, Pg. 111, 1987.
+106-46-7|1|mouse|LD50|oral|2950mg/kg (2950mg/kg)| |Guide to the Chemicals Used in Crop Protection.  Vol. 6, Pg. 183, 1973.
+106-46-7|1|mouse|LD50|subcutaneous|5145mg/kg (5145mg/kg)|BEHAVIORAL: TREMOR|Toho Igakkai Zasshi.  Journal of Medical Society of Toho University.  Vol. 20, Pg. 772, 1973.
+106-46-7|1|rabbit|LD50|oral|2830mg/kg (2830mg/kg)| |Yakkyoku.  Pharmacy.  Vol. 29, Pg. 453, 1978.
+106-46-7|1|rabbit|LD50|skin|> 2gm/kg (2000mg/kg)| |Special Publication of the Entomological Society of America.  Vol. 78-1, Pg. 18, 1978.
+106-46-7|1|rat|LD50|intraperitoneal|2562mg/kg (2562mg/kg)| |Journal of the American Pharmaceutical Association, Scientific Edition.  Vol. 38, Pg. 124, 1949.
+106-46-7|1|rat|LD50|oral|500mg/kg (500mg/kg)| |World Review of Pest Control.  Vol. 9, Pg. 119, 1970.
+106-46-7|1|rat|LD50|skin|> 6gm/kg (6000mg/kg)| |Fundamental and Applied Toxicology.  Vol. 7, Pg. 299, 1986.
+107-98-2|1-Methoxy-2-hydroxypropane|dog|LD50|intravenous|2gm/kg (2000mg/kg)|LUNGS, THORAX, OR RESPIRATION: DYSPNEABEHAVIORAL: ATAXIABEHAVIORAL: CONVULSIONS OR EFFECT ON SEIZURE THRESHOLD|Arzneimittel-Forschung. Drug Research.  Vol. 22, Pg. 569, 1972.
+107-98-2|1-Methoxy-2-hydroxypropane|dog|LD50|oral|5gm/kg (5000mg/kg)| |Arzneimittel-Forschung. Drug Research.  Vol. 22, Pg. 569, 1972.
+107-98-2|1-Methoxy-2-hydroxypropane|guinea pig|LCLo|inhalation|15000ppm/7H (15000ppm)|BEHAVIORAL: SLEEP|AMA Archives of Industrial Hygiene and Occupational Medicine.  Vol. 9, Pg. 509, 1954.
+107-98-2|1-Methoxy-2-hydroxypropane|human|TCLo|inhalation|3000ppm (3000ppm)|GASTROINTESTINAL: NAUSEA OR VOMITINGSENSE ORGANS AND SPECIAL SENSES: TUMORS: OLFACTIONBEHAVIORAL: GENERAL ANESTHETIC|Raw Material Data Handbook, Vol.1: Organic Solvents, 1974.  Vol. 1, Pg. 105, 1974.
+107-98-2|1-Methoxy-2-hydroxypropane|mouse|LD|intraperitoneal|> 500mg/kg (500mg/kg)| |"Summary Tables of Biological Tests," National Research Council Chemical-Biological Coordination Center.  Vol. 4, Pg. 110, 1952.
+107-98-2|1-Methoxy-2-hydroxypropane|mouse|LD50|intravenous|5300mg/kg (5300mg/kg)|LUNGS, THORAX, OR RESPIRATION: DYSPNEABEHAVIORAL: ATAXIABEHAVIORAL: CONVULSIONS OR EFFECT ON SEIZURE THRESHOLD|Arzneimittel-Forschung. Drug Research.  Vol. 22, Pg. 569, 1972.
+107-98-2|1-Methoxy-2-hydroxypropane|mouse|LD50|oral|11700mg/kg (11700mg/kg)|LUNGS, THORAX, OR RESPIRATION: DYSPNEABEHAVIORAL: CONVULSIONS OR EFFECT ON SEIZURE THRESHOLDBEHAVIORAL: ATAXIA|Arzneimittel-Forschung. Drug Research.  Vol. 22, Pg. 569, 1972.
+107-98-2|1-Methoxy-2-hydroxypropane|rabbit|LCLo|inhalation|15000ppm/7H (15000ppm)| |AMA Archives of Industrial Hygiene and Occupational Medicine.  Vol. 9, Pg. 509, 1954.
+107-98-2|1-Methoxy-2-hydroxypropane|rabbit|LD50|intravenous|1200mg/kg (1200mg/kg)| |Arzneimittel-Forschung. Drug Research.  Vol. 22, Pg. 569, 1972.
+107-98-2|1-Methoxy-2-hydroxypropane|rabbit|LD50|oral|5700mg/kg (5700mg/kg)| |Arzneimittel-Forschung. Drug Research.  Vol. 22, Pg. 569, 1972.
+107-98-2|1-Methoxy-2-hydroxypropane|rabbit|LD50|skin|13gm/kg (13000mg/kg)| |Raw Material Data Handbook, Vol.1: Organic Solvents, 1974.  Vol. 1, Pg. 105, 1974.
+107-98-2|1-Methoxy-2-hydroxypropane|rabbit|LD50|subcutaneous|5gm/kg (5000mg/kg)| |Arzneimittel-Forschung. Drug Research.  Vol. 22, Pg. 569, 1972.
+107-98-2|1-Methoxy-2-hydroxypropane|rat|LC50|inhalation|10000ppm/5H (10000ppm)| |Raw Material Data Handbook, Vol.1: Organic Solvents, 1974.  Vol. 1, Pg. 105, 1974.
+107-98-2|1-Methoxy-2-hydroxypropane|rat|LD50|intraperitoneal|3720mg/kg (3720mg/kg)| |"Patty's Industrial Hygiene and Toxicology," 3rd rev. ed., Clayton, G.D., and F.E. Clayton, eds., New York, John Wiley & Sons, Inc., 1978-82.  Vol. 3 originally pub. in 1979; pub. as 2n rev. ed. in 1985.Vol. 2C, Pg. 3977, 1982.
+107-98-2|1-Methoxy-2-hydroxypropane|rat|LD50|intravenous|4200mg/kg (4200mg/kg)|BEHAVIORAL: ATAXIABEHAVIORAL: CONVULSIONS OR EFFECT ON SEIZURE THRESHOLDLUNGS, THORAX, OR RESPIRATION: DYSPNEA|Arzneimittel-Forschung. Drug Research.  Vol. 22, Pg. 569, 1972.
+107-98-2|1-Methoxy-2-hydroxypropane|rat|LD50|subcutaneous|7800mg/kg (7800mg/kg)|LUNGS, THORAX, OR RESPIRATION: DYSPNEABEHAVIORAL: CONVULSIONS OR EFFECT ON SEIZURE THRESHOLDBEHAVIORAL: ATAXIA|Arzneimittel-Forschung. Drug Research.  Vol. 22, Pg. 569, 1972.
+107-98-2|1-Methoxy-2-hydroxypropane|rat|LDLo|oral|3739mg/kg (3739mg/kg)|BEHAVIORAL: SOMNOLENCE (GENERAL DEPRESSED ACTIVITY)SENSE ORGANS AND SPECIAL SENSES: CHROMODACYRORREA: EYEBEHAVIORAL: ATAXIA|National Technical Information Service.  Vol. OTS0520402, 
+111-30-8|Glutaral |duck|LD50|oral|820mg/kg (820mg/kg)|BEHAVIORAL: SOMNOLENCE (GENERAL DEPRESSED ACTIVITY)BEHAVIORAL: FOOD INTAKE (ANIMAL)|National Technical Information Service.  Vol. OTS0526410-1, 
+111-30-8|Glutaral |guinea pig|LD50|oral|50mg/kg (50mg/kg)|BEHAVIORAL: EXCITEMENTBEHAVIORAL: SOMNOLENCE (GENERAL DEPRESSED ACTIVITY)BEHAVIORAL: ALTERED SLEEP TIME (INCLUDING CHANGE IN RIGHTING REFLEX)|Gigiena i Sanitariya.  For English translation, see HYSAAV.  Vol. 52(3), Pg. 77, 1987.
+111-30-8|Glutaral |mouse|LD50|intraperitoneal|13900ug/kg (13.9mg/kg)| |Iyakuhin Kenkyu.  Study of Medical Supplies.  Vol. 10, Pg. 232, 1979.
+111-30-8|Glutaral |mouse|LD50|intravenous|15400ug/kg (15.4mg/kg)| |Oyo Yakuri.  Pharmacometrics.  Vol. 19, Pg. 503, 1980.
+111-30-8|Glutaral |mouse|LD50|oral|100mg/kg (100mg/kg)| |Oyo Yakuri.  Pharmacometrics.  Vol. 19, Pg. 503, 1980.
+111-30-8|Glutaral |mouse|LD50|skin|> 5840mg/kg (5840mg/kg)|SKIN AND APPENDAGES (SKIN): "DERMATITIS, OTHER: AFTER SYSTEMIC EXPOSURE"|Oyo Yakuri.  Pharmacometrics.  Vol. 12, Pg. 11, 1976.
+111-30-8|Glutaral |mouse|LD50|subcutaneous|> 590mg/kg (590mg/kg)| |Drugs in Japan Vol. -, Pg. 395, 1995.
+111-30-8|Glutaral |rabbit|LD50|skin|560uL/kg (0.56mL/kg)| |Union Carbide Data Sheet.  Vol. 11/4/1971, 
+111-30-8|Glutaral |rat|LC50|inhalation|480mg/m3/4H (480mg/m3)| |United States Environmental Protection Agency, Office of Pesticides and Toxic Substances. Vol. 8EHQ-1290-1008, 
+111-30-8|Glutaral |rat|LD50|intraperitoneal|17900ug/kg (17.9mg/kg)| |Iyakuhin Kenkyu.  Study of Medical Supplies.  Vol. 10, Pg. 232, 1979.
+111-30-8|Glutaral |rat|LD50|intravenous|9800ug/kg (9.8mg/kg)| |United States Environmental Protection Agency, Office of Pesticides and Toxic Substances. Vol. 8EHQ-1290-1008, 
+111-30-8|Glutaral |rat|LD50|oral|134mg/kg (134mg/kg)| |Oyo Yakuri.  Pharmacometrics.  Vol. 19, Pg. 503, 1980.
+111-30-8|Glutaral |rat|LD50|skin|> 2500mg/kg (2500mg/kg)|SKIN AND APPENDAGES (SKIN): "DERMATITIS, OTHER: AFTER SYSTEMIC EXPOSURE"|Oyo Yakuri.  Pharmacometrics.  Vol. 12, Pg. 11, 1976.
+111-30-8|Glutaral |rat|LD50|subcutaneous|> 750mg/kg (750mg/kg)| |Drugs in Japan Vol. -, Pg. 395, 1995.
+111-46-6|Diethylene glycol|cat|LD50|oral|3300mg/kg (3300mg/kg)| |Journal of Industrial Hygiene and Toxicology.  Vol. 21, Pg. 173, 1939.
+111-46-6|Diethylene glycol|child|TDLo|oral|2400mg/kg (2400mg/kg)|BEHAVIORAL: SOMNOLENCE (GENERAL DEPRESSED ACTIVITY)LIVER: OTHER CHANGES|Journal of Pediatrics.  Vol. 109, Pg. 731, 1986.
+111-46-6|Diethylene glycol|dog|LD50|oral|9gm/kg (9000mg/kg)| |Journal of Pharmacology and Experimental Therapeutics.  Vol. 67, Pg. 101, 1939.
+111-46-6|Diethylene glycol|guinea pig|LD50|oral|7800mg/kg (7800mg/kg)|LIVER: OTHER CHANGESBEHAVIORAL: GENERAL ANESTHETICBEHAVIORAL: MUSCLE WEAKNESS|Federation Proceedings, Federation of American Societies for Experimental Biology. Vol. 4, Pg. 142, 1945.
+111-46-6|Diethylene glycol|guinea pig|LD50|unreported|14gm/kg (14000mg/kg)|GASTROINTESTINAL: NAUSEA OR VOMITINGBEHAVIORAL: SOMNOLENCE (GENERAL DEPRESSED ACTIVITY)BEHAVIORAL: EXCITEMENT|Gigiena i Sanitariya.  For English translation, see HYSAAV.  Vol. 33(3), Pg. 16, 1968.
+111-46-6|Diethylene glycol|human|LDLo|oral|1gm/kg (1000mg/kg)| |Journal of Industrial Hygiene and Toxicology.  Vol. 21, Pg. 173, 1939.
+111-46-6|Diethylene glycol|mouse|LCLo|inhalation|130mg/m3/2H (130mg/m3)|LUNGS, THORAX, OR RESPIRATION: CYANOSISBEHAVIORAL: EXCITEMENTBEHAVIORAL: GENERAL ANESTHETIC|Gigiena Truda i Professional'nye Zabolevaniya.  Labor Hygiene and Occupational Diseases. Vol. 10(12), Pg. 30, 1966.
+111-46-6|Diethylene glycol|mouse|LD50|intraperitoneal|9719mg/kg (9719mg/kg)|BLOOD: CHANGES IN SPLEENKIDNEY, URETER, AND BLADDER: CHANGES IN BOTH TUBULES AND GLOMERULILUNGS, THORAX, OR RESPIRATION: CHRONIC PULMONARY EDEMA|Federation Proceedings, Federation of American Societies for Experimental Biology. Vol. 6, Pg. 342, 1947.
+111-46-6|Diethylene glycol|mouse|LD50|oral|23700mg/kg (23700mg/kg)|BEHAVIORAL: MUSCLE WEAKNESSBEHAVIORAL: GENERAL ANESTHETICLIVER: OTHER CHANGES|Federation Proceedings, Federation of American Societies for Experimental Biology. Vol. 4, Pg. 142, 1945.
+111-46-6|Diethylene glycol|mouse|LD50|unreported|13300mg/kg (13300mg/kg)|BEHAVIORAL: SOMNOLENCE (GENERAL DEPRESSED ACTIVITY)BEHAVIORAL: EXCITEMENTGASTROINTESTINAL: NAUSEA OR VOMITING|Gigiena i Sanitariya.  For English translation, see HYSAAV.  Vol. 33(3), Pg. 16, 1968.
+111-46-6|Diethylene glycol|mouse|LDLo|subcutaneous|5gm/kg (5000mg/kg)| |Journal of Pharmacology and Experimental Therapeutics.  Vol. 42, Pg. 355, 1931.
+111-46-6|Diethylene glycol|rabbit|LD50|oral|4400mg/kg (4400mg/kg)| |Journal of Industrial Hygiene and Toxicology.  Vol. 21, Pg. 173, 1939.
+111-46-6|Diethylene glycol|rabbit|LD50|oral|4400mg/kg (4400mg/kg)|LUNGS, THORAX, OR RESPIRATION: DYSPNEABEHAVIORAL: COMA|Journal of Industrial Hygiene and Toxicology.  Vol. 21, Pg. 173, 1939.
+111-46-6|Diethylene glycol|rabbit|LD50|skin|11890mg/kg (11890mg/kg)| |Raw Material Data Handbook, Vol.1: Organic Solvents, 1974.  Vol. 1, Pg. 25, 1974.
+111-46-6|Diethylene glycol|rabbit|LD50|unreported|2688mg/kg (2688mg/kg)|BEHAVIORAL: EXCITEMENTGASTROINTESTINAL: NAUSEA OR VOMITINGBEHAVIORAL: SOMNOLENCE (GENERAL DEPRESSED ACTIVITY)|Gigiena i Sanitariya.  For English translation, see HYSAAV.  Vol. 33(3), Pg. 16, 1968.
+111-46-6|Diethylene glycol|rabbit|LDLo|intramuscular|4472mg/kg (4472mg/kg)| |Journal of Pharmacology and Experimental Therapeutics.  Vol. 59, Pg. 93, 1937.
+111-46-6|Diethylene glycol|rabbit|LDLo|intravenous|2236mg/kg (2236mg/kg)| |Journal of Pharmacology and Experimental Therapeutics.  Vol. 59, Pg. 93, 1937.
+111-46-6|Diethylene glycol|rat|LD50|intraperitoneal|7700mg/kg (7700mg/kg)| |"Patty's Industrial Hygiene and Toxicology," 3rd rev. ed., Clayton, G.D., and F.E. Clayton, eds., New York, John Wiley & Sons, Inc., 1978-82.  Vol. 3 originally pub. in 1979; pub. as 2n rev. ed. in 1985.Vol. 2C, Pg. 3836, 1982.
+111-46-6|Diethylene glycol|rat|LD50|intravenous|6565mg/kg (6565mg/kg)| |Raw Material Data Handbook, Vol.1: Organic Solvents, 1974.  Vol. 1, Pg. 25, 1974.
+111-46-6|Diethylene glycol|rat|LD50|oral|12565mg/kg (12565mg/kg)| |Raw Material Data Handbook, Vol.1: Organic Solvents, 1974.  Vol. 1, Pg. 25, 1974.
+111-46-6|Diethylene glycol|rat|LD50|subcutaneous|18800mg/kg (18800mg/kg)| |"Patty's Industrial Hygiene and Toxicology," 3rd rev. ed., Clayton, G.D., and F.E. Clayton, eds., New York, John Wiley & Sons, Inc., 1978-82.  Vol. 3 originally pub. in 1979; pub. as 2n rev. ed. in 1985.Vol. 2C, Pg. 3836, 1982.
+111-46-6|Diethylene glycol|rat|LD50|unreported|15650mg/kg (15650mg/kg)|BEHAVIORAL: EXCITEMENTBEHAVIORAL: SOMNOLENCE (GENERAL DEPRESSED ACTIVITY)GASTROINTESTINAL: NAUSEA OR VOMITING|Gigiena i Sanitariya.  For English translation, see HYSAAV.  Vol. 33(3), Pg. 16, 1968.
+111-46-6|Diethylene glycol|rat|LDLo|intramuscular|7826mg/kg (7826mg/kg)| |Journal of Pharmacology and Experimental Therapeutics.  Vol. 59, Pg. 93, 1937.
+111-76-2|Ethylene glycol mono-n-butyl ether|guinea pig|LC|inhalation|> 633ppm/1H (633ppm)| |National Technical Information Service.  Vol. OTS0572613, 
+111-76-2|Ethylene glycol mono-n-butyl ether|guinea pig|LD50|oral|1200mg/kg (1200mg/kg)|GASTROINTESTINAL: OTHER CHANGESBEHAVIORAL: GENERAL ANESTHETICKIDNEY, URETER, AND BLADDER: OTHER CHANGES |Journal of Industrial Hygiene and Toxicology.  Vol. 23, Pg. 259, 1941.
+111-76-2|Ethylene glycol mono-n-butyl ether|guinea pig|LD50|skin|230uL/kg (0.23mL/kg)| |Toxicology and Applied Pharmacology.  Vol. 7, Pg. 559, 1965.
+111-76-2|Ethylene glycol mono-n-butyl ether|human|TCLo|inhalation|100ppm (100ppm)|SENSE ORGANS AND SPECIAL SENSES: OTHER CHANGES: OLFACTIONLUNGS, THORAX, OR RESPIRATION: OTHER CHANGESSENSE ORGANS AND SPECIAL SENSES: OTHER: EYE|Raw Material Data Handbook, Vol.1: Organic Solvents, 1974.  Vol. 1, Pg. 50, 1974.
+111-76-2|Ethylene glycol mono-n-butyl ether|human|TCLo|inhalation|195ppm/8H (195ppm)|GASTROINTESTINAL: NAUSEA OR VOMITING|AMA Archives of Industrial Health.  Vol. 14, Pg. 114, 1956.
+111-76-2|Ethylene glycol mono-n-butyl ether|mammal (species unspecified)|LD50|unreported|1500mg/kg (1500mg/kg)| |Gigiena i Sanitariya.  For English translation, see HYSAAV.  Vol. 51(5), Pg. 61, 1986.
+111-76-2|Ethylene glycol mono-n-butyl ether|mouse|LC50|inhalation|700ppm/7H (700ppm)|LUNGS, THORAX, OR RESPIRATION: DYSPNEABEHAVIORAL: ANALGESIAKIDNEY, URETER, AND BLADDER: HEMATURIA|Journal of Industrial Hygiene and Toxicology.  Vol. 25, Pg. 157, 1943.
+111-76-2|Ethylene glycol mono-n-butyl ether|mouse|LD50|intraperitoneal|536mg/kg (536mg/kg)| |Shell Chemical Company.  Unpublished Report.  Vol. -, Pg. 2, 1961.
+111-76-2|Ethylene glycol mono-n-butyl ether|mouse|LD50|intravenous|1130mg/kg (1130mg/kg)| |AMA Archives of Industrial Health.  Vol. 14, Pg. 114, 1956.
+111-76-2|Ethylene glycol mono-n-butyl ether|mouse|LD50|oral|1230mg/kg (1230mg/kg)|BEHAVIORAL: SOMNOLENCE (GENERAL DEPRESSED ACTIVITY)SKIN AND APPENDAGES (SKIN): HAIR: OTHERBEHAVIORAL: ALTERED SLEEP TIME (INCLUDING CHANGE IN RIGHTING REFLEX)|AMA Archives of Industrial Health.  Vol. 14, Pg. 114, 1956.
+111-76-2|Ethylene glycol mono-n-butyl ether|mouse|LD50|unreported|1050mg/kg (1050mg/kg)|LUNGS, THORAX, OR RESPIRATION: OTHER CHANGESBEHAVIORAL: SOMNOLENCE (GENERAL DEPRESSED ACTIVITY)BEHAVIORAL: EXCITEMENT|Gigiena i Sanitariya.  For English translation, see HYSAAV.  Vol. 41(11), Pg. 7, 1976.
+111-76-2|Ethylene glycol mono-n-butyl ether|mouse|LDLo|subcutaneous|500mg/kg (500mg/kg)| |Journal of Pharmacology and Experimental Therapeutics.  Vol. 42, Pg. 355, 1931.
+111-76-2|Ethylene glycol mono-n-butyl ether|rabbit|LD50|intraperitoneal|220mg/kg (220mg/kg)| |"Toxicometric Parameters of Industrial Toxic Chemicals Under Single Exposure," Izmerov, N.F., et al., Moscow, Centre of International Projects, GKNT, 1982Vol. -, Pg. 67, 1982.
+111-76-2|Ethylene glycol mono-n-butyl ether|rabbit|LD50|intravenous|252mg/kg (252mg/kg)| |AMA Archives of Industrial Health.  Vol. 14, Pg. 114, 1956.
+111-76-2|Ethylene glycol mono-n-butyl ether|rabbit|LD50|oral|300mg/kg (300mg/kg)| |Yakkyoku.  Pharmacy.  Vol. 32, Pg. 1241, 1981.
+111-76-2|Ethylene glycol mono-n-butyl ether|rabbit|LD50|skin|220mg/kg (220mg/kg)| |Dow Chemical Company Reports.  Vol. MSD-46, 
+111-76-2|Ethylene glycol mono-n-butyl ether|rat|LC50|inhalation|450ppm/4H (450ppm)| |Toxicology and Applied Pharmacology.  Vol. 68, Pg. 405, 1983.
+111-76-2|Ethylene glycol mono-n-butyl ether|rat|LC50|inhalation|450ppm/4H (450ppm)|BEHAVIORAL: ATAXIA|Toxicology and Applied Pharmacology.  Vol. 68, Pg. 405, 1983.
+111-76-2|Ethylene glycol mono-n-butyl ether|rat|LD50|intraperitoneal|220mg/kg (220mg/kg)| |"Toxicometric Parameters of Industrial Toxic Chemicals Under Single Exposure," Izmerov, N.F., et al., Moscow, Centre of International Projects, GKNT, 1982Vol. -, Pg. 67, 1982.
+111-76-2|Ethylene glycol mono-n-butyl ether|rat|LD50|intravenous|307mg/kg (307mg/kg)| |AMA Archives of Industrial Health.  Vol. 14, Pg. 114, 1956.
+111-76-2|Ethylene glycol mono-n-butyl ether|rat|LD50|oral|470mg/kg (470mg/kg)| |Dow Chemical Company Reports.  Vol. MSD-46, 
+111-76-2|Ethylene glycol mono-n-butyl ether|rat|LD50|unreported|917mg/kg (917mg/kg)|BEHAVIORAL: EXCITEMENTBEHAVIORAL: SOMNOLENCE (GENERAL DEPRESSED ACTIVITY)LUNGS, THORAX, OR RESPIRATION: OTHER CHANGES|Gigiena i Sanitariya.  For English translation, see HYSAAV.  Vol. 41(11), Pg. 7, 1976.
+111-76-2|Ethylene glycol mono-n-butyl ether|women|TDLo|oral|7813uL/kg (7.813mL/kg)|BEHAVIORAL: COMAVASCULAR: BP LOWERING NOT CHARACTERIZED IN AUTONOMIC SECTION|Human Toxicology.  Vol. 8, Pg. 243, 1989.
+111-76-2|Ethylene glycol mono-n-butyl ether|women|TDLo|oral|600mg/kg (600mg/kg)|LUNGS, THORAX, OR RESPIRATION: DYSPNEABEHAVIORAL: COMA|Human Toxicology.  Vol. 7, Pg. 187, 1988.
+627-93-0|Hexanedioic acid|rat|LD50|intraperitoneal|1809uL/kg (1.809mL/kg)| |Journal of Pharmaceutical Sciences.  Vol. 62, Pg. 1596, 1973.
+112-34-5|Diethylene glycol mono-n-butyl ether|guinea pig|LD50|oral|2gm/kg (2000mg/kg)|BEHAVIORAL: GENERAL ANESTHETICGASTROINTESTINAL: OTHER CHANGESKIDNEY, URETER, AND BLADDER: OTHER CHANGES |Journal of Industrial Hygiene and Toxicology.  Vol. 23, Pg. 259, 1941.
+112-34-5|Diethylene glycol mono-n-butyl ether|mouse|LD50|intraperitoneal|850mg/kg (850mg/kg)|KIDNEY, URETER, AND BLADDER: "CHANGES IN TUBULES (INCLUDING ACUTE RENAL FAILURE, ACUTE TUBULAR NECROSIS)"LUNGS, THORAX, OR RESPIRATION: OTHER CHANGESBLOOD: CHANGES IN SPLEEN|Federation Proceedings, Federation of American Societies for Experimental Biology. Vol. 6, Pg. 342, 1947.
+112-34-5|Diethylene glycol mono-n-butyl ether|mouse|LD50|oral|2400mg/kg (2400mg/kg)| |Journal of the American College of Toxicology.  Vol. 12, Pg. 139, 1993.
+112-34-5|Diethylene glycol mono-n-butyl ether|mouse|LD50|unreported|6050mg/kg (6050mg/kg)| |Gigiena i Sanitariya.  For English translation, see HYSAAV.  Vol. 46(2), Pg. 14, 1981.
+112-34-5|Diethylene glycol mono-n-butyl ether|rabbit|LD50|oral|2200mg/kg (2200mg/kg)| |"Patty's Industrial Hygiene and Toxicology," 3rd rev. ed., Clayton, G.D., and F.E. Clayton, eds., New York, John Wiley & Sons, Inc., 1978-82.  Vol. 3 originally pub. in 1979; pub. as 2n rev. ed. in 1985.Vol. 2C, Pg. 3964, 1982.
+112-34-5|Diethylene glycol mono-n-butyl ether|rabbit|LD50|skin|2700mg/kg (2700mg/kg)| |Journal of the American College of Toxicology.  Vol. 12, Pg. 139, 1993.
+112-34-5|Diethylene glycol mono-n-butyl ether|rat|LD50|oral|5660mg/kg (5660mg/kg)| |Dow Chemical Company Reports.  Vol. MSD-41, 
+112-34-5|Diethylene glycol mono-n-butyl ether|rat|LD50|unreported|4500mg/kg (4500mg/kg)| |Gigiena i Sanitariya.  For English translation, see HYSAAV.  Vol. 46(2), Pg. 14, 1981.
+121-54-0|Benzethonium chloride |mouse|LD50|intraperitoneal|7813ug/kg (7.813mg/kg)| |Journal of the American College of Toxicology.  Vol. 4(5), Pg. 65, 1985.
+121-54-0|Benzethonium chloride |mouse|LD50|intravenous|30mg/kg (30mg/kg)| |Journal of the American Pharmaceutical Association, Scientific Edition.  Vol. 40, Pg. 267, 1951.
+121-54-0|Benzethonium chloride |mouse|LD50|oral|338mg/kg (338mg/kg)| |Proceedings of the Society for Experimental Biology and Medicine.  Vol. 120, Pg. 511, 1965.
+121-54-0|Benzethonium chloride |rat|LD50|intraperitoneal|16500ug/kg (16.5mg/kg)|BEHAVIORAL: CONVULSIONS OR EFFECT ON SEIZURE THRESHOLDLUNGS, THORAX, OR RESPIRATION: RESPIRATORY DEPRESSIONBEHAVIORAL: ALTERED SLEEP TIME (INCLUDING CHANGE IN RIGHTING REFLEX)|Fukuoka Shika Daigaku Gakkai Zasshi.  Journal of Fukuoka Dental College.  Vol. 9, Pg. 729, 1983.
+121-54-0|Benzethonium chloride |rat|LD50|intravenous|19mg/kg (19mg/kg)|BLOOD: CHANGES IN CELL COUNT (UNSPECIFIED)BEHAVIORAL: SOMNOLENCE (GENERAL DEPRESSED ACTIVITY)KIDNEY, URETER, AND BLADDER: HEMATURIA|Soap and Chemical Specialties.  Vol. 30, Pg. 147, 1954.
+121-54-0|Benzethonium chloride |rat|LD50|oral|368mg/kg (368mg/kg)| |Proceedings of the Society for Experimental Biology and Medicine.  Vol. 120, Pg. 511, 1965.
+121-54-0|Benzethonium chloride |rat|LD50|subcutaneous|119mg/kg (119mg/kg)| |National Technical Information Service.  Vol. PB195-158, 
+121-54-0|Benzethonium chloride |rat|LD50|unreported|420mg/kg (420mg/kg)| |"Merck Index; an Encyclopedia of Chemicals, Drugs, and Biologicals", 11th ed., Rahway, NJ 07065, Merck & Co., Inc. 1989Vol. 11, Pg. 167, 1989.
+122-99-6|Phenoxyethanol |mouse|LD50|intraperitoneal|490mg/kg (490mg/kg)|BRAIN AND COVERINGS: OTHER DEGENERATIVE CHANGES|Toksikologicheskii Vestnik.  Vol. (3), Pg. 37, 1996.
+122-99-6|Phenoxyethanol |mouse|LD50|oral|933mg/kg (933mg/kg)|BRAIN AND COVERINGS: OTHER DEGENERATIVE CHANGES|Toksikologicheskii Vestnik.  Vol. (3), Pg. 37, 1996.
+122-99-6|Phenoxyethanol |rabbit|LD50|skin|5mL/kg (5mL/kg)| |Union Carbide Data Sheet.  Vol. 6/24/1958, 
+122-99-6|Phenoxyethanol |rat|LD50|intraperitoneal|554mg/kg (554mg/kg)|BRAIN AND COVERINGS: OTHER DEGENERATIVE CHANGES|Toksikologicheskii Vestnik.  Vol. (3), Pg. 37, 1996.
+122-99-6|Phenoxyethanol |rat|LD50|oral|1260mg/kg (1260mg/kg)|BEHAVIORAL: GENERAL ANESTHETICGASTROINTESTINAL: OTHER CHANGESKIDNEY, URETER, AND BLADDER: OTHER CHANGES |Journal of Industrial Hygiene and Toxicology.  Vol. 23, Pg. 259, 1941.
+122-99-6|Phenoxyethanol |rat|LD50|skin|14422mg/kg (14422mg/kg)|LUNGS, THORAX, OR RESPIRATION: ACUTE PULMONARY EDEMA|Journal of the American College of Toxicology.  Vol. 9, Pg. 259, 1990.
+123-86-4|n-Butyl acetate|cat|LCLo|inhalation|68gm/m3/72M (68000mg/m3)|GASTROINTESTINAL: CHANGES IN STRUCTURE OR FUNCTION OF SALIVARY GLANDSBEHAVIORAL: GENERAL ANESTHETICLUNGS, THORAX, OR RESPIRATION: EMPHYSEMA|Archiv fuer Gewerbepathologie und Gewerbehygiene.  Vol. 5, Pg. 1, 1933.
+123-86-4|n-Butyl acetate|guinea pig|LCLo|inhalation|67gm/m3/4H (67000mg/m3)|BEHAVIORAL: ANTIPSYCHOTICSENSE ORGANS AND SPECIAL SENSES: OTHER: EYE|Food and Cosmetics Toxicology.  Vol. 17, Pg. 515, 1979.
+123-86-4|n-Butyl acetate|guinea pig|LD50|oral|4700mg/kg (4700mg/kg)| |"Toxicometric Parameters of Industrial Toxic Chemicals Under Single Exposure," Izmerov, N.F., et al., Moscow, Centre of International Projects, GKNT, 1982Vol. -, Pg. 28, 1982.
+123-86-4|n-Butyl acetate|guinea pig|LDLo|intramuscular|2648mg/kg (2648mg/kg)|BEHAVIORAL: MUSCLE WEAKNESS|Journal of Pharmacology and Experimental Therapeutics.  Vol. 76, Pg. 189, 1942.
+123-86-4|n-Butyl acetate|guinea pig|LDLo|intraperitoneal|1500mg/kg (1500mg/kg)| |American Industrial Hygiene Association Journal.  Vol. 35, Pg. 21, 1974.
+123-86-4|n-Butyl acetate|guinea pig|LDLo|intraperitoneal|1500mg/kg (1500mg/kg)|LIVER: FATTY LIVER DEGERATION|American Industrial Hygiene Association Journal.  Vol. 35, Pg. 21, 1974.
+123-86-4|n-Butyl acetate|human|TCLo|inhalation|200ppm (200ppm)|LUNGS, THORAX, OR RESPIRATION: OTHER CHANGESSENSE ORGANS AND SPECIAL SENSES: OTHER CHANGES: OLFACTIONSENSE ORGANS AND SPECIAL SENSES: CONJUNCTIVE IRRITATION: EYE|Journal of Industrial Hygiene and Toxicology.  Vol. 25, Pg. 282, 1943.
+123-86-4|n-Butyl acetate|mammal (species unspecified)|LC50|inhalation|40gm/m3 (40000mg/m3)| |Gigiena Truda i Professional'nye Zabolevaniya.  Labor Hygiene and Occupational Diseases. Vol. 32(10), Pg. 25, 1988.
+123-86-4|n-Butyl acetate|mammal (species unspecified)|LD50|oral|4300mg/kg (4300mg/kg)| |Gigiena Truda i Professional'nye Zabolevaniya.  Labor Hygiene and Occupational Diseases. Vol. 32(10), Pg. 25, 1988.
+123-86-4|n-Butyl acetate|mammal (species unspecified)|LD50|unreported|1592mg/kg (1592mg/kg)| |Gigiena i Sanitariya.  For English translation, see HYSAAV.  Vol. 51(5), Pg. 61, 1986.
+123-86-4|n-Butyl acetate|mouse|LC50|inhalation|6gm/m3/2H (6000mg/m3)| |Yakkyoku.  Pharmacy.  Vol. 32, Pg. 1241, 1981.
+123-86-4|n-Butyl acetate|mouse|LD50|intraperitoneal|1230mg/kg (1230mg/kg)| |Shell Chemical Company.  Unpublished Report.  Vol. -, Pg. 2, 1961.
+123-86-4|n-Butyl acetate|mouse|LD50|oral|6gm/kg (6000mg/kg)| |Gigiena Truda i Professional'nye Zabolevaniya.  Labor Hygiene and Occupational Diseases. Vol. 25(11), Pg. 57, 1981.
+123-86-4|n-Butyl acetate|rabbit|LD50|oral|3200mg/kg (3200mg/kg)| |"Toxicometric Parameters of Industrial Toxic Chemicals Under Single Exposure," Izmerov, N.F., et al., Moscow, Centre of International Projects, GKNT, 1982Vol. -, Pg. 28, 1982.
+123-86-4|n-Butyl acetate|rabbit|LD50|skin|> 17600mg/kg (17600mg/kg)| |Raw Material Data Handbook, Vol.1: Organic Solvents, 1974.  Vol. 1, Pg. 7, 1974.
+123-86-4|n-Butyl acetate|rat|LC50|inhalation|390ppm/4H (390ppm)|LUNGS, THORAX, OR RESPIRATION: ACUTE PULMONARY EDEMABLOOD: HEMORRHAGEBEHAVIORAL: CHANGES IN MOTOR ACTIVITY (SPECIFIC ASSAY)|Inhalation Toxicology.  Vol. 9, Pg. 623, 1997.
+123-86-4|n-Butyl acetate|rat|LD50|oral|10768mg/kg (10768mg/kg)|LUNGS, THORAX, OR RESPIRATION: OTHER CHANGESLIVER: OTHER CHANGESBEHAVIORAL: SOMNOLENCE (GENERAL DEPRESSED ACTIVITY)|Acute Toxicity Data. Journal of the American College of Toxicology, Part B. Vol. 1, Pg. 196, 1992.
+67-63-0|Isopropyl alcohol |cat|LDLo|intravenous|1963mg/kg (1963mg/kg)| |"Handbook of Toxicology," 4 vols., Philadelphia, W.B. Saunders Co., 1956-59Vol. 1, Pg. 172, 1955.
+67-63-0|Isopropyl alcohol |cat|LDLo|oral|6mL/kg (6mL/kg)| |Archives Internationales de Pharmacodynamie et de Therapie.  Vol. 26, Pg. 285, 1921.
+67-63-0|Isopropyl alcohol |dog|LDLo|intravenous|1024mg/kg (1024mg/kg)| |Journal of Laboratory and Clinical Medicine.  Vol. 29, Pg. 561, 1944.
+67-63-0|Isopropyl alcohol |dog|LDLo|oral|1537mg/kg (1537mg/kg)|GASTROINTESTINAL: NAUSEA OR VOMITING|Journal of Laboratory and Clinical Medicine.  Vol. 29, Pg. 561, 1944.
+67-63-0|Isopropyl alcohol |frog|LDLo|parenteral|20gm/kg (20000mg/kg)|PERIPHERAL NERVE AND SENSATION: SPASTIC PARALYSIS WITH OR WITHOUT SENSORY CHANGEBEHAVIORAL: SOMNOLENCE (GENERAL DEPRESSED ACTIVITY)|Archives Internationales de Pharmacodynamie et de Therapie.  Vol. 50, Pg. 296, 1935.
+67-63-0|Isopropyl alcohol |guinea pig|LD50|intraperitoneal|2560mg/kg (2560mg/kg)| |EHP, Environmental Health Perspectives.  Vol. 61, Pg. 321, 1985.
+67-63-0|Isopropyl alcohol |hamster|LD50|intraperitoneal|3444mg/kg (3444mg/kg)| |EHP, Environmental Health Perspectives.  Vol. 61, Pg. 321, 1985.
+67-63-0|Isopropyl alcohol |human|LDLo|oral|3570mg/kg (3570mg/kg)|GASTROINTESTINAL: NAUSEA OR VOMITINGLUNGS, THORAX, OR RESPIRATION: RESPIRATORY DEPRESSIONBEHAVIORAL: COMA|"Toxicology of Drugs and Chemicals," Deichmann, W.B., New York, Academic Press, Inc., 1969Vol. -, Pg. 339, 1969.
+67-63-0|Isopropyl alcohol |human|LDLo|unreported|2mL/kg (2mL/kg)| |Japanese Journal of Toxicology. Vol. 12, Pg. 341, 1999.
+67-63-0|Isopropyl alcohol |human|TDLo|oral|223mg/kg (223mg/kg)|VASCULAR: BP LOWERING NOT CHARACTERIZED IN AUTONOMIC SECTIONCARDIAC: PULSE RATE  BEHAVIORAL: "HALLUCINATIONS, DISTORTED PERCEPTIONS"|Journal of Laboratory and Clinical Medicine.  Vol. 12, Pg. 326, 1927.
+67-63-0|Isopropyl alcohol |infant|TDLo|oral|13gm/kg (13000mg/kg)|GASTROINTESTINAL: NAUSEA OR VOMITINGBEHAVIORAL: IRRITABILITYBEHAVIORAL: SOMNOLENCE (GENERAL DEPRESSED ACTIVITY)|American Journal of Emergency Medicine.  Vol. 10, Pg. 542, 1992.
+67-63-0|Isopropyl alcohol |infant|TDLo|unreported|1375mg/kg (1375mg/kg)|SENSE ORGANS AND SPECIAL SENSES: OTHER: EYEBEHAVIORAL: "HALLUCINATIONS, DISTORTED PERCEPTIONS"BEHAVIORAL: SOMNOLENCE (GENERAL DEPRESSED ACTIVITY)|Pediatric Emergency Care.  Vol. 9, Pg. 146, 1993.
+67-63-0|Isopropyl alcohol |mammal (species unspecified)|LDLo|subcutaneous|6gm/kg (6000mg/kg)|LUNGS, THORAX, OR RESPIRATION: OTHER CHANGESBEHAVIORAL: GENERAL ANESTHETICPERIPHERAL NERVE AND SENSATION: SPASTIC PARALYSIS WITH OR WITHOUT SENSORY CHANGE|Archiv fuer Toxikologie.  Vol. 16, Pg. 84, 1956.
+67-63-0|Isopropyl alcohol |man|LDLo|oral|5272mg/kg (5272mg/kg)|LUNGS, THORAX, OR RESPIRATION: CHRONIC PULMONARY EDEMABEHAVIORAL: COMAVASCULAR: BP LOWERING NOT CHARACTERIZED IN AUTONOMIC SECTION|American Journal of Clinical Pathology.  Vol. 38, Pg. 144, 1962.
+67-63-0|Isopropyl alcohol |man|LDLo|unreported|2770mg/kg (2770mg/kg)| |"Poisoning; Toxicology, Symptoms, Treatments," 2nd ed., Arena, J.M., Springfield, IL, C.C. Thomas, 1970Vol. 2, Pg. 73, 1970.
+67-63-0|Isopropyl alcohol |man|TDLo|oral|14432mg/kg (14432mg/kg)|LUNGS, THORAX, OR RESPIRATION: DYSPNEABEHAVIORAL: COMAVASCULAR: BP LOWERING NOT CHARACTERIZED IN AUTONOMIC SECTION|New England Journal of Medicine.  Vol. 277, Pg. 699, 1967.
+67-63-0|Isopropyl alcohol |mouse|LCLo|inhalation|12800ppm/3H (12800ppm)| |Interagency Collaborative Group on Environmental Carcinogenesis, National Cancer Institute, Memorandum, June 17, 1974Vol. 17JUN1974, 
+67-63-0|Isopropyl alcohol |mouse|LD50|intraperitoneal|4477mg/kg (4477mg/kg)| |EHP, Environmental Health Perspectives.  Vol. 61, Pg. 321, 1985.
+67-63-0|Isopropyl alcohol |mouse|LD50|intravenous|1509mg/kg (1509mg/kg)| |EHP, Environmental Health Perspectives.  Vol. 61, Pg. 321, 1985.
+67-63-0|Isopropyl alcohol |mouse|LD50|oral|3600mg/kg (3600mg/kg)|BEHAVIORAL: ALTERED SLEEP TIME (INCLUDING CHANGE IN RIGHTING REFLEX)BEHAVIORAL: SOMNOLENCE (GENERAL DEPRESSED ACTIVITY)|Gigiena i Sanitariya.  For English translation, see HYSAAV.  Vol. 43(1), Pg. 8, 1978.
+67-63-0|Isopropyl alcohol |mouse|LDLo|subcutaneous|6gm/kg (6000mg/kg)| |"Handbook of Toxicology," 4 vols., Philadelphia, W.B. Saunders Co., 1956-59Vol. 1, Pg. 172, 1955.
+67-63-0|Isopropyl alcohol |rabbit|LD50|intraperitoneal|667mg/kg (667mg/kg)| |EHP, Environmental Health Perspectives.  Vol. 61, Pg. 321, 1985.
+67-63-0|Isopropyl alcohol |rabbit|LD50|intravenous|1184mg/kg (1184mg/kg)| |EHP, Environmental Health Perspectives.  Vol. 61, Pg. 321, 1985.
+67-63-0|Isopropyl alcohol |rabbit|LD50|oral|6410mg/kg (6410mg/kg)| |FAO Nutrition Meetings Report Series.  Vol. 48A, Pg. 114, 1970.
+67-63-0|Isopropyl alcohol |rabbit|LD50|skin|12800mg/kg (12800mg/kg)| |Raw Material Data Handbook, Vol.1: Organic Solvents, 1974.  Vol. 1, Pg. 100, 1974.
+67-63-0|Isopropyl alcohol |rat|LC50|inhalation|16000ppm/8H (16000ppm)| |Raw Material Data Handbook, Vol.1: Organic Solvents, 1974.  Vol. 1, Pg. 100, 1974.
+67-63-0|Isopropyl alcohol |rat|LD50|intraperitoneal|2735mg/kg (2735mg/kg)| |EHP, Environmental Health Perspectives.  Vol. 61, Pg. 321, 1985.
+67-63-0|Isopropyl alcohol |rat|LD50|intravenous|1088mg/kg (1088mg/kg)| |EHP, Environmental Health Perspectives.  Vol. 61, Pg. 321, 1985.
+67-63-0|Isopropyl alcohol |rat|LD50|oral|5045mg/kg (5045mg/kg)|BEHAVIORAL: ALTERED SLEEP TIME (INCLUDING CHANGE IN RIGHTING REFLEX)BEHAVIORAL: SOMNOLENCE (GENERAL DEPRESSED ACTIVITY)|Gigiena i Sanitariya.  For English translation, see HYSAAV.  Vol. 43(1), Pg. 8, 1978.
+61791-14-8|PEG-10 Cocamine|rat|LD50|oral|750mg/kg (750mg/kg)| |Food and Cosmetics Toxicology.  Vol. 8, Pg. 249, 1970.
+9004-82-4|Sodium dodecylpoly|rat|LD50|oral|1600mg/kg (1600mg/kg)| |Journal of the American College of Toxicology.  Vol. 2(5), Pg. 1, 1983.
+6283-63-2|N|guinea pig|LD50|unreported|560mg/kg (560mg/kg)|BEHAVIORAL: MUSCLE CONTRACTION OR SPASTICITY)BEHAVIORAL: ATAXIABEHAVIORAL: EXCITEMENT|Gigiena i Sanitariya.  For English translation, see HYSAAV.  Vol. 51(9), Pg. 71, 1986.
+6283-63-2|N|mouse|LD50|unreported|318mg/kg (318mg/kg)|BEHAVIORAL: ATAXIABEHAVIORAL: MUSCLE CONTRACTION OR SPASTICITY)BEHAVIORAL: EXCITEMENT|Gigiena i Sanitariya.  For English translation, see HYSAAV.  Vol. 51(9), Pg. 71, 1986.
+6283-63-2|N|mouse|LDLo|oral|300mg/kg (300mg/kg)|BEHAVIORAL: REGIDITYBEHAVIORAL: TREMORBLOOD: METHEMOGLOBINEMIA-CARBOXYHEMOGLOBIN|Gigiena i Sanitariya.  For English translation, see HYSAAV.  Vol. 22(5), Pg. 41, 1957.
+6283-63-2|N|mouse|LDLo|subcutaneous|80mg/kg (80mg/kg)|BEHAVIORAL: TREMORBEHAVIORAL: REGIDITYBLOOD: METHEMOGLOBINEMIA-CARBOXYHEMOGLOBIN|Gigiena i Sanitariya.  For English translation, see HYSAAV.  Vol. 22(5), Pg. 41, 1957.
+6283-63-2|N|rat|LD50|unreported|450mg/kg (450mg/kg)|BEHAVIORAL: ATAXIABEHAVIORAL: EXCITEMENTBEHAVIORAL: MUSCLE CONTRACTION OR SPASTICITY)|Gigiena i Sanitariya.  For English translation, see HYSAAV.  Vol. 51(9), Pg. 71, 1986.
+6283-63-2|N|rat|LDLo|intratracheal|50mg/kg (50mg/kg)|BEHAVIORAL: CONVULSIONS OR EFFECT ON SEIZURE THRESHOLDBEHAVIORAL: TREMORBEHAVIORAL: REGIDITY|Gigiena i Sanitariya.  For English translation, see HYSAAV.  Vol. 22(5), Pg. 41, 1957.
+6283-63-2|N|rat|LDLo|oral|100mg/kg (100mg/kg)|BEHAVIORAL: TREMORBEHAVIORAL: CONVULSIONS OR EFFECT ON SEIZURE THRESHOLDBEHAVIORAL: REGIDITY|Gigiena i Sanitariya.  For English translation, see HYSAAV.  Vol. 22(5), Pg. 41, 1957.
+6283-63-2|N|rat|LDLo|subcutaneous|100mg/kg (100mg/kg)|BEHAVIORAL: CONVULSIONS OR EFFECT ON SEIZURE THRESHOLDBEHAVIORAL: REGIDITYBEHAVIORAL: TREMOR|Gigiena i Sanitariya.  For English translation, see HYSAAV.  Vol. 22(5), Pg. 41, 1957.
+63148-62-9|Polydimethylsiloxanes|guinea pig|LD|oral|> 10gm/kg (10000mg/kg)| |National Technical Information Service.  Vol. OTS0590148, 
+63148-62-9|Polydimethylsiloxanes|mouse|LDLo|intraperitoneal|16mL/kg (16mL/kg)|IMMUNOLOGICAL INCLUDING ALLERGIC: DECREASE IN HUMORAL IMMUNE RESPONSEGASTROINTESTINAL: "HYPERMOTILITY, DIARRHEA"IMMUNOLOGICAL INCLUDING ALLERGIC: DECREASE IN CELLULAR IMMUNE RESPONSE|National Technical Information Service.  Vol. OTS0572697, 
+63148-62-9|Polydimethylsiloxanes|rabbit|LC|inhalation|> 978gm/m3/7.5 (978000mg/m3)| |National Technical Information Service.  Vol. OTS0590149, 
+63148-62-9|Polydimethylsiloxanes|rabbit|LD|skin|> 20mL/kg (20mL/kg)| |Union Carbide Data Sheet.  Vol. 1/14/1972, 
+63148-62-9|Polydimethylsiloxanes|rabbit|LD|skin|> 10200mg/kg (10200mg/kg)| |National Technical Information Service.  Vol. OTS0572436, 
+63148-62-9|Polydimethylsiloxanes|rabbit|LD50|skin|> 2gm/kg (2000mg/kg)|BEHAVIORAL: FOOD INTAKE (ANIMAL)GASTROINTESTINAL: "HYPERMOTILITY, DIARRHEA"SKIN AND APPENDAGES (SKIN): "DERMATITIS, OTHER: AFTER SYSTEMIC EXPOSURE"|National Technical Information Service.  Vol. OTS0537687, 
+63148-62-9|Polydimethylsiloxanes|rat|LD|intramuscular|> 1200uL/kg (1.2mL/kg)|IMMUNOLOGICAL INCLUDING ALLERGIC: INCREASE IN HUMORAL IMMUNE RESPONSE|National Technical Information Service.  Vol. OTS0572813, 
+63148-62-9|Polydimethylsiloxanes|rat|LD|oral|> 50mL/kg (50mL/kg)| |Union Carbide Data Sheet.  Vol. 1/14/1972, 
+63148-62-9|Polydimethylsiloxanes|rat|LD|oral|> 5gm/kg (5000mg/kg)| |National Technical Information Service.  Vol. OTS0572658, 
+63148-62-9|Polydimethylsiloxanes|rat|LD50|oral|> 17gm/kg (17000mg/kg)| |National Technical Information Service.  Vol. OTS0537687, 
+63148-62-9|Polydimethylsiloxanes|rat|LD50|oral|> 17gm/kg (17000mg/kg)|KIDNEY, URETER, AND BLADDER: OTHER CHANGES |National Technical Information Service.  Vol. OTS0537687, 
+63148-62-9|Polydimethylsiloxanes|rat|LD50|oral|> 24gm/kg (24000mg/kg)|GASTROINTESTINAL: "HYPERMOTILITY, DIARRHEA"|National Technical Information Service.  Vol. LMF-69, 
+6358-69-6|D |mouse|LD50|intravenous|1050mg/kg (1050mg/kg)| |Toxicology and Applied Pharmacology.  Vol. 44, Pg. 225, 1978.
+64-02-8|Edetate Sodium |mouse|LD50|intraperitoneal|330mg/kg (330mg/kg)|KIDNEY, URETER, AND BLADDER: "CHANGES IN TUBULES (INCLUDING ACUTE RENAL FAILURE, ACUTE TUBULAR NECROSIS)"|Revue d'Epidemiologie, Medecine Sociale et Sante Publique.  Vol. 10, Pg. 391, 1962.
+64-17-5|Alcohol |cat|LDLo|intravenous|3945mg/kg (3945mg/kg)| |"Handbook of Toxicology," 4 vols., Philadelphia, W.B. Saunders Co., 1956-59Vol. 1, Pg. 130, 1955.
+64-17-5|Alcohol |cat|LDLo|oral|6gm/kg (6000mg/kg)|GASTROINTESTINAL: GASTRITISKIDNEY, URETER, AND BLADDER: INTERSTITIAL NEPHRITISLIVER: "HEPATITIS (HEPATOCELLULAR NECROSIS), DIFFUSE"|Journal of Pharmacology and Experimental Therapeutics.  Vol. 56, Pg. 117, 1936.
+64-17-5|Alcohol |chicken|LDLo|intravenous|8216mg/kg (8216mg/kg)|VASCULAR: OTHER CHANGES|Journal of Pharmacology and Experimental Therapeutics.  Vol. 60, Pg. 312, 1937.
+64-17-5|Alcohol |chicken|LDLo|subcutaneous|5gm/kg (5000mg/kg)| |"Ueber die Wirkung Verschiedener Gifte Auf Vogel, Dissertation," Forchheimer, L., Pharmakologischen Institut der Universitat Wurzburg, Fed. Rep. Ger., 1931Vol. -, Pg. -, 1931.
+64-17-5|Alcohol |child|LDLo|oral|2gm/kg (2000mg/kg)|LIVER: FATTY LIVER DEGERATIONBLOOD: OTHER CHANGESLUNGS, THORAX, OR RESPIRATION: OTHER CHANGES|Archiv fuer Toxikologie.  Vol. 17, Pg. 183, 1958.
+64-17-5|Alcohol |child|TDLo|oral|14400mg/kg/30 (14400mg/kg)|LUNGS, THORAX, OR RESPIRATION: DYSPNEABEHAVIORAL: COMAGASTROINTESTINAL: NAUSEA OR VOMITING|Acta Paediatrica Scandinavica.  Vol. 74, Pg. 977, 1985.
+64-17-5|Alcohol |dog|LDLo|intraperitoneal|3gm/kg (3000mg/kg)| |British Journal of Industrial Medicine.  Vol. 1, Pg. 207, 1944.
+64-17-5|Alcohol |dog|LDLo|intravenous|1600mg/kg (1600mg/kg)|LUNGS, THORAX, OR RESPIRATION: DYSPNEABEHAVIORAL: ATAXIAGASTROINTESTINAL: "HYPERMOTILITY, DIARRHEA"|Toxicology and Applied Pharmacology.  Vol. 18, Pg. 60, 1971.
+64-17-5|Alcohol |dog|LDLo|oral|5500mg/kg (5500mg/kg)| |"Handbook of Toxicology," 4 vols., Philadelphia, W.B. Saunders Co., 1956-59Vol. 1, Pg. 130, 1955.
+64-17-5|Alcohol |dog|LDLo|subcutaneous|6gm/kg (6000mg/kg)| |"Handbook of Toxicology," 4 vols., Philadelphia, W.B. Saunders Co., 1956-59Vol. 1, Pg. 130, 1955.
+64-17-5|Alcohol |frog|LDLo|parenteral|36gm/kg (36000mg/kg)|BEHAVIORAL: SOMNOLENCE (GENERAL DEPRESSED ACTIVITY)PERIPHERAL NERVE AND SENSATION: SPASTIC PARALYSIS WITH OR WITHOUT SENSORY CHANGE|Archives Internationales de Pharmacodynamie et de Therapie.  Vol. 50, Pg. 296, 1935.
+64-17-5|Alcohol |frog|LDLo|subcutaneous|7100mg/kg (7100mg/kg)| |"Handbook of Toxicology," 4 vols., Philadelphia, W.B. Saunders Co., 1956-59Vol. 1, Pg. 128, 1955.
+64-17-5|Alcohol |guinea pig|LCLo|inhalation|21900ppm (21900ppm)| |FAO Nutrition Meetings Report Series.  Vol. 48A, Pg. 99, 1970.
+64-17-5|Alcohol |guinea pig|LD50|intraperitoneal|3414mg/kg (3414mg/kg)| |EHP, Environmental Health Perspectives.  Vol. 61, Pg. 321, 1985.
+64-17-5|Alcohol |guinea pig|LD50|oral|5560mg/kg (5560mg/kg)| |Journal of Industrial Hygiene and Toxicology.  Vol. 23, Pg. 259, 1941.
+64-17-5|Alcohol |hamster|LD50|intraperitoneal|5068mg/kg (5068mg/kg)| |EHP, Environmental Health Perspectives.  Vol. 61, Pg. 321, 1985.
+64-17-5|Alcohol |human|LDLo|oral|1400mg/kg (1400mg/kg)|BEHAVIORAL: SLEEPBEHAVIORAL: HEADACHEGASTROINTESTINAL: NAUSEA OR VOMITING|Raw Material Data Handbook, Vol.1: Organic Solvents, 1974.  Vol. 1, Pg. 44, 1974.
+64-17-5|Alcohol |infant|LDLo|subcutaneous|19440mg/kg (19440mg/kg)|BEHAVIORAL: COMABEHAVIORAL: CONVULSIONS OR EFFECT ON SEIZURE THRESHOLD|American Journal of Clinical Pathology.  Vol. 5, Pg. 466, 1935.
+64-17-5|Alcohol |infant|TDLo|oral|11712uL/kg (11.712mL/kg)|LUNGS, THORAX, OR RESPIRATION: DYSPNEACARDIAC: ARRHYTHMIAS (INCLUDING CHANGES IN CONDUCTION)BEHAVIORAL: GENERAL ANESTHETIC|Journal of UOEH Vol. 9, Pg. 53, 1987.
+64-17-5|Alcohol |mammal (species unspecified)|LD50|intraperitoneal|4300mg/kg (4300mg/kg)|BEHAVIORAL: CONVULSIONS OR EFFECT ON SEIZURE THRESHOLDBEHAVIORAL: SOMNOLENCE (GENERAL DEPRESSED ACTIVITY)BEHAVIORAL: CHANGES IN MOTOR ACTIVITY (SPECIFIC ASSAY)|Toxicology and Applied Pharmacology.  Vol. 13, Pg. 358, 1968.
+64-17-5|Alcohol |man|TDLo|oral|1430ug/kg (1.43mg/kg)|BEHAVIORAL: CHANGES IN MOTOR ACTIVITY (SPECIFIC ASSAY)BEHAVIORAL: ANTIPSYCHOTICBEHAVIORAL: ATAXIA|Journal of Pharmacology and Experimental Therapeutics.  Vol. 197, Pg. 488, 1976.
+64-17-5|Alcohol |man|TDLo|oral|3371uL/kg (3.371mL/kg)|BEHAVIORAL: EXCITEMENTBEHAVIORAL: COMABEHAVIORAL: ALTERED SLEEP TIME (INCLUDING CHANGE IN RIGHTING REFLEX)|Veterinary and Human Toxicology.  Vol. 21, Pg. 272, 1979.
+64-17-5|Alcohol |man|TDLo|oral|50mg/kg (50mg/kg)|GASTROINTESTINAL: ALTERATION IN GASTRIC SECRETIONGASTROINTESTINAL: OTHER CHANGES|Journal of Pharmacology and Experimental Therapeutics.  Vol. 56, Pg. 117, 1936.
+64-17-5|Alcohol |man|TDLo|oral|700mg/kg (700mg/kg)|BEHAVIORAL: CHANGES IN PSYCHOPHYSIOLOGICAL TESTS|Neurobehavioral Toxicology and Teratology.  Vol. 8, Pg. 77, 1986.
+64-17-5|Alcohol |man|TDLo|oral|22500mg/kg/4W (22500mg/kg)|ENDOCRINE: OTHER CHANGESBLOOD: OTHER CHANGES|Clinical Endocrinology Vol. 25, Pg. 143, 1986.
+64-17-5|Alcohol |mouse|LC50|inhalation|39gm/m3/4H (39000mg/m3)| |Gigiena Truda i Professional'nye Zabolevaniya.  Labor Hygiene and Occupational Diseases. Vol. 26(8), Pg. 53, 1982.
+64-17-5|Alcohol |mouse|LD50|intraperitoneal|528mg/kg (528mg/kg)| |Strahlentherapie.  Vol. 127, Pg. 245, 1965.
+64-17-5|Alcohol |mouse|LD50|intravenous|1973mg/kg (1973mg/kg)| |"Handbook of Toxicology," 4 vols., Philadelphia, W.B. Saunders Co., 1956-59Vol. 1, Pg. 128, 1955.
+64-17-5|Alcohol |mouse|LD50|oral|3450mg/kg (3450mg/kg)| |Gigiena i Sanitariya.  For English translation, see HYSAAV.  Vol. 32(3), Pg. 31, 1967.
+64-17-5|Alcohol |mouse|LD50|subcutaneous|8285mg/kg (8285mg/kg)| |FAO Nutrition Meetings Report Series.  Vol. 48A, Pg. 99, 1970.
+64-17-5|Alcohol |pigeon|LDLo|subcutaneous|5gm/kg (5000mg/kg)| |"Ueber die Wirkung Verschiedener Gifte Auf Vogel, Dissertation," Forchheimer, L., Pharmakologischen Institut der Universitat Wurzburg, Fed. Rep. Ger., 1931Vol. -, Pg. -, 1931.
+64-17-5|Alcohol |rabbit|LD50|intraperitoneal|963mg/kg (963mg/kg)| |EHP, Environmental Health Perspectives.  Vol. 61, Pg. 321, 1985.
+64-17-5|Alcohol |rabbit|LD50|intravenous|2374mg/kg (2374mg/kg)| |EHP, Environmental Health Perspectives.  Vol. 61, Pg. 321, 1985.
+64-17-5|Alcohol |rabbit|LD50|oral|6300mg/kg (6300mg/kg)| |"Handbook of Toxicology," 4 vols., Philadelphia, W.B. Saunders Co., 1956-59Vol. 1, Pg. 130, 1955.
+64-17-5|Alcohol |rabbit|LDLo|skin|20gm/kg (20000mg/kg)| |"Alcohols:  Their Chemistry, Properties and Manufacture," Monick, J.A., New York, Reinhold Book, 1968Vol. -, Pg. 72, 1968.
+64-17-5|Alcohol |rabbit|LDLo|subcutaneous|20gm/kg (20000mg/kg)| |Gekkan Yakuji.  Pharmaceuticals Monthly.  Vol. 22, Pg. 651, 1980.
+64-17-5|Alcohol |rat|LC50|inhalation|20000ppm/10H (20000ppm)| |Raw Material Data Handbook, Vol.1: Organic Solvents, 1974.  Vol. 1, Pg. 44, 1974.
+64-17-5|Alcohol |rat|LD50|intraarterial|11mg/kg (11mg/kg)|LUNGS, THORAX, OR RESPIRATION: DYSPNEALUNGS, THORAX, OR RESPIRATION: CHRONIC PULMONARY EDEMA|Toxicology and Applied Pharmacology.  Vol. 18, Pg. 60, 1971.
+64-17-5|Alcohol |rat|LD50|intraperitoneal|3600ug/kg (3.6mg/kg)| |Pharmacology: International Journal of Experimental and Clinical Pharmacology.  Vol. 2, Pg. 27, 1969.
+64-17-5|Alcohol |rat|LD50|intravenous|1440mg/kg (1440mg/kg)|LUNGS, THORAX, OR RESPIRATION: DYSPNEA|Toxicology and Applied Pharmacology.  Vol. 18, Pg. 60, 1971.
+64-17-5|Alcohol |rat|LD50|oral|7060mg/kg (7060mg/kg)|LUNGS, THORAX, OR RESPIRATION: OTHER CHANGES|Toxicology and Applied Pharmacology.  Vol. 16, Pg. 718, 1970.
+64-17-5|Alcohol |women|TDLo|oral|1200mg/kg/3H (1200mg/kg)|BLOOD: OTHER CHANGESENDOCRINE: OTHER CHANGESENDOCRINE: CHANGE IN GONADOTROPINS|Alcoholism:  Clinical and Experimental Research.  Vol. 7, Pg. 289, 1983.
+64-17-5|Alcohol |women|TDLo|oral|256gm/kg/12W (256000mg/kg)|BEHAVIORAL: "HALLUCINATIONS, DISTORTED PERCEPTIONS"ENDOCRINE: EFFECT ON MENSTRUAL CYSLE|JAMA, Journal of the American Medical Association.  Vol. 238, Pg. 2143, 1977.
+6419-19-8|Aminotrimethylene phosphonic acid|duck|LD50|oral|> 2510mg/kg (2510mg/kg)| |United States Environmental Protection Agency, Office of Pesticides and Toxic Substances. Vol. 8EHQ-0990-0937, 
+6419-19-8|Aminotrimethylene phosphonic acid|quail|LD50|oral|> 2510mg/kg (2510mg/kg)| |United States Environmental Protection Agency, Office of Pesticides and Toxic Substances. Vol. 8EHQ-0990-0937, 
+6419-19-8|Aminotrimethylene phosphonic acid|rabbit|LD50|skin|> 6310mg/kg (6310mg/kg)| |United States Environmental Protection Agency, Office of Pesticides and Toxic Substances. Vol. 8EHQ-0990-0937, 
+6419-19-8|Aminotrimethylene phosphonic acid|rat|LD50|oral|2100mg/kg (2100mg/kg)| |Gigiena i Sanitariya.  For English translation, see HYSAAV.  Vol. 49(2), Pg. 67, 1984.
+64-19-7|Acetic acid|child|TDLo|rectal|281uL/kg (0.281mL/kg)|LIVER: LIVER FUNCTION TESTS IMPAIREDGASTROINTESTINAL: ALTERATION IN GASTRIC SECRETIONKIDNEY, URETER, AND BLADDER: "CHANGES IN TUBULES (INCLUDING ACUTE RENAL FAILURE, ACUTE TUBULAR NECROSIS)"|Journal of Toxicology, Clinical Toxicology.  Vol. 82, Pg. 333, 1994.
+64-19-7|Acetic acid|human|TCLo|inhalation|816ppm/3M (816ppm)|SENSE ORGANS AND SPECIAL SENSES: OTHER CHANGES: OLFACTIONSENSE ORGANS AND SPECIAL SENSES: OTHER: EYELUNGS, THORAX, OR RESPIRATION: OTHER CHANGES|AMA Archives of Industrial Health.  Vol. 21, Pg. 28, 1960.
+64-19-7|Acetic acid|human|TDLo|oral|1470ug/kg (1.47mg/kg)|GASTROINTESTINAL: ULCERATION OR BLEEDING FROM SMALL INTESTINEGASTROINTESTINAL: CHANGE IN STRUCTURE OR FUNCTION OF ESOPHAGUSGASTROINTESTINAL: ULCERATION OR BLEEDING FROM LARGE INTESTINE|American Industrial Hygiene Association Journal.  Vol. 33, Pg. 624, 1972.
+64-19-7|Acetic acid|man|LDLo|unreported|308mg/kg (308mg/kg)| |"Poisoning; Toxicology, Symptoms, Treatments," 2nd ed., Arena, J.M., Springfield, IL, C.C. Thomas, 1970Vol. 2, Pg. 73, 1970.
+64-19-7|Acetic acid|mouse|LC50|inhalation|5620ppm/1H (5620ppm)|BLOOD: OTHER CHANGESSENSE ORGANS AND SPECIAL SENSES: OTHER: EYESENSE ORGANS AND SPECIAL SENSES: CONJUNCTIVE IRRITATION: EYE|Medicina del Lavoro.  Industrial Medicine.  Vol. 48, Pg. 559, 1957.
+64-19-7|Acetic acid|mouse|LD50|intravenous|525mg/kg (525mg/kg)|BEHAVIORAL: CONVULSIONS OR EFFECT ON SEIZURE THRESHOLD|Acta Pharmacologica et Toxicologica.  Vol. 18, Pg. 141, 1961.
+64-19-7|Acetic acid|rabbit|LD50|skin|1060uL/kg (1.06mL/kg)| |Union Carbide Data Sheet.  Vol. 8/7/1963, 
+64-19-7|Acetic acid|rabbit|LDLo|oral|600mg/kg (600mg/kg)| |Comptes Rendus des Seances de la Societe de Biologie et de Ses Filiales.  Vol. 83, Pg. 136, 1920.
+64-19-7|Acetic acid|rabbit|LDLo|rectal|600mg/kg (600mg/kg)| |Comptes Rendus des Seances de la Societe de Biologie et de Ses Filiales.  Vol. 83, Pg. 136, 1920.
+64-19-7|Acetic acid|rabbit|LDLo|subcutaneous|600mg/kg (600mg/kg)| |Comptes Rendus des Seances de la Societe de Biologie et de Ses Filiales.  Vol. 83, Pg. 136, 1920.
+64-19-7|Acetic acid|rat|LCLo|inhalation|16000ppm/4H (16000ppm)| |American Industrial Hygiene Association Quarterly.  Vol. 17, Pg. 129, 1956.
+64-19-7|Acetic acid|rat|LD50|oral|3310mg/kg (3310mg/kg)| |Delaware State Medical Journal.  Vol. 31, Pg. 276, 1959.
+6440-58-0|1|mouse|LDLo|intraperitoneal|1320mg/kg (1320mg/kg)| |Agricultural and Biological Chemistry.  Vol. 40, Pg. 1705, 1976.
+6440-58-0|1|mouse|LDLo|oral|3gm/kg (3000mg/kg)| |Agricultural and Biological Chemistry.  Vol. 40, Pg. 1705, 1976.
+6440-58-0|1|rat|LD50|oral|2gm/kg (2000mg/kg)|LIVER: OTHER CHANGESGASTROINTESTINAL: ULCERATION OR BLEEDING FROM STOMACHKIDNEY, URETER, AND BLADDER: OTHER CHANGES |Journal of the American College of Toxicology.  Vol. 7(3), Pg. 245, 1988.
+64742-95-6|Aromatic naphtha|quail|LD50|oral|> 2150mg/kg (2150mg/kg)|BEHAVIORAL: FOOD INTAKE (ANIMAL)|National Technical Information Service.  Vol. OTS0529435, 
+64742-95-6|Aromatic naphtha|rat|LD50|oral|8400mg/kg (8400mg/kg)|BEHAVIORAL: TREMORBEHAVIORAL: SOMNOLENCE (GENERAL DEPRESSED ACTIVITY)LUNGS, THORAX, OR RESPIRATION: OTHER CHANGES|National Technical Information Service.  Vol. OTS0534799, 
+9002-88-4|Polyethylene|mouse|LC50|inhalation|12gm/m3/30M (12000mg/m3)| |Proceedings of the Western Pharmacology Society.  Vol. 21, Pg. 167, 1978.
+9002-88-4|Polyethylene|mouse|LDLo|oral|5gm/kg (5000mg/kg)| |Toksikologiya Novykh Promyshlennykh Khimicheskikh Veshchestv.  Toxicology of New Industrial Chemical Substances.  For English translation, see TNICS*.  Vol. 5, Pg. 136, 1963.
+9002-88-4|Polyethylene|rat|LD|oral|> 3gm/kg (3000mg/kg)|KIDNEY, URETER, AND BLADDER: OTHER CHANGES |Kiso to Rinsho.  Clinical Report.  Vol. 16, Pg. 175, 1982.
+9004-32-4|Carboxymethylcellulose sodium |guinea pig|LD50|oral|16000mg/kg (16000mg/kg)| |Food Research.  Vol. 13, Pg. 29, 1948.
+9004-32-4|Carboxymethylcellulose sodium |mouse|LD50|oral|> 27gm/kg (27000mg/kg)| |Proceedings of the European Society of Toxicology.  Vol. 17, Pg. 351, 1976.
+9004-32-4|Carboxymethylcellulose sodium |rabbit|LD50|oral|> 27gm/kg (27000mg/kg)| |Proceedings of the European Society of Toxicology.  Vol. 17, Pg. 351, 1976.
+9004-32-4|Carboxymethylcellulose sodium |rabbit|LD50|skin|> 2gm/kg (2000mg/kg)| |Toxicology Letters.  Vol. (Suppl), Pg. 243, 1992.
+9004-32-4|Carboxymethylcellulose sodium |rat|LC50|inhalation|> 5800mg/m3/4H (5800mg/m3)| |Toxicology Letters.  Vol. (Suppl), Pg. 243, 1992.
+9004-32-4|Carboxymethylcellulose sodium |rat|LD50|oral|27000mg/kg (27000mg/kg)| |Food Research.  Vol. 13, Pg. 29, 1948.
+9004-62-0|Hydroxyethyl cellulose |women|LDLo|intravenous|5100mg/kg/6D- (5100mg/kg)|BRAIN AND COVERINGS: INCREASED INTRACRANIAL PRESSUREVASCULAR: CHANGE IN PLASMA OR BLOOD VALUMEBEHAVIORAL: SOMNOLENCE (GENERAL DEPRESSED ACTIVITY)|New England Journal of Medicine.  Vol. 317, Pg. 964, 1987.
+9004-64-2|Hyprolose |mouse|LD50|intraperitoneal|> 25gm/kg (25000mg/kg)| |Oyo Yakuri.  Pharmacometrics.  Vol. 4, Pg. 1013, 1970.
+9004-64-2|Hyprolose |mouse|LD50|intravenous|> 500mg/kg (500mg/kg)| |Oyo Yakuri.  Pharmacometrics.  Vol. 4, Pg. 1013, 1970.
+9004-64-2|Hyprolose |mouse|LD50|oral|> 5gm/kg (5000mg/kg)| |Oyo Yakuri.  Pharmacometrics.  Vol. 4, Pg. 1013, 1970.
+9004-64-2|Hyprolose |rat|LD50|intraperitoneal|> 25gm/kg (25000mg/kg)| |Oyo Yakuri.  Pharmacometrics.  Vol. 4, Pg. 1013, 1970.
+9004-64-2|Hyprolose |rat|LD50|intravenous|250mg/kg (250mg/kg)| |Oyo Yakuri.  Pharmacometrics.  Vol. 4, Pg. 1013, 1970.
+9004-64-2|Hyprolose |rat|LD50|oral|10200mg/kg (10200mg/kg)| |FAO Nutrition Meetings Report Series.  Vol. 46A, Pg. 131, 1969.
+9005-64-5|Polysorbate 20 |hamster|LD50|oral|18mL/kg (18mL/kg)| |Food Research.  Vol. 21, Pg. 348, 1956.
+9005-64-5|Polysorbate 20 |mouse|LD50|intraperitoneal|2640mg/kg (2640mg/kg)| |Arzneimittel-Forschung. Drug Research.  Vol. 26, Pg. 1581, 1976.
+9005-64-5|Polysorbate 20 |mouse|LD50|intravenous|1420mg/kg (1420mg/kg)| |Research Progress in Organic-Biological and Medicinal Chemistry.  Vol. 2, Pg. 316, 1970.
+9005-64-5|Polysorbate 20 |mouse|LD50|oral|> 33gm/kg (33000mg/kg)| |Arzneimittel-Forschung. Drug Research.  Vol. 26, Pg. 1581, 1976.
+9005-64-5|Polysorbate 20 |rat|LD50|intraperitoneal|3850mg/kg (3850mg/kg)| |Arzneimittel-Forschung. Drug Research.  Vol. 26, Pg. 1581, 1976.
+9005-64-5|Polysorbate 20 |rat|LD50|intravenous|770mg/kg (770mg/kg)| |Arzneimittel-Forschung. Drug Research.  Vol. 26, Pg. 1581, 1976.
+9005-64-5|Polysorbate 20 |rat|LD50|oral|36700uL/kg (36.7mL/kg)| |Food Research.  Vol. 21, Pg. 348, 1956.
+9005-65-6|Polysorbate 80 |cat|LDLo|intravenous|500mg/kg (500mg/kg)|CARDIAC: OTHER CHANGESBEHAVIORAL: ALTERED SLEEP TIME (INCLUDING CHANGE IN RIGHTING REFLEX)|Arzneimittel-Forschung. Drug Research.  Vol. 28, Pg. 1586, 1978.
+9005-65-6|Polysorbate 80 |dog|LDLo|intravenous|500mg/kg (500mg/kg)|CARDIAC: OTHER CHANGESBEHAVIORAL: ALTERED SLEEP TIME (INCLUDING CHANGE IN RIGHTING REFLEX)|Arzneimittel-Forschung. Drug Research.  Vol. 28, Pg. 1586, 1978.
+9005-65-6|Polysorbate 80 |mammal (species unspecified)|LD50|intravenous|5800mg/kg (5800mg/kg)| |Zhongguo Yaoxue Zazhi. Chinese Pharmacuetical Journal. Vol. 26, Pg. 459, 1991.
+9005-65-6|Polysorbate 80 |mammal (species unspecified)|LD50|oral|25gm/kg (25000mg/kg)| |Zhongguo Yaoxue Zazhi. Chinese Pharmacuetical Journal. Vol. 26, Pg. 459, 1991.
+9005-65-6|Polysorbate 80 |mouse|LD50|intraperitoneal|7600mg/kg (7600mg/kg)| |Pharmacology and Therapeutics.  Vol. 5, Pg. 467, 1979.
+9005-65-6|Polysorbate 80 |mouse|LD50|intravenous|4500mg/kg (4500mg/kg)| |Arzneimittel-Forschung. Drug Research.  Vol. 18, Pg. 666, 1968.
+9005-65-6|Polysorbate 80 |mouse|LD50|oral|25gm/kg (25000mg/kg)| |Bollettino Chimico Farmaceutico.  Vol. 101, Pg. 173, 1962.
+9005-65-6|Polysorbate 80 |rat|LD50|intraperitoneal|6804mg/kg (6804mg/kg)| |Arzneimittel-Forschung. Drug Research.  Vol. 35, Pg. 804, 1985.
+9005-65-6|Polysorbate 80 |rat|LD50|intravenous|1790mg/kg (1790mg/kg)| |FAO Nutrition Meetings Report Series.  Vol. 53A, Pg. 254, 1974.
+9005-65-6|Polysorbate 80 |rat|LD50|oral|34500uL/kg (34.5mL/kg)| |Food Research.  Vol. 21, Pg. 348, 1956.
+9014-01-1|Subtilisins|rat|LD50|oral|3700mg/kg (3700mg/kg)| |Food and Cosmetics Toxicology.  Vol. 7, Pg. 581, 1969.
+9016-45-9|Polyethylene glycol nonylphenyl ether|mouse|LD50|oral|> 50gm/kg (50000mg/kg)| |Eisei Shikenjo Hokoku.  Bulletin of the Institute of Hygienic Sciences.  Vol. (103), Pg. 37, 1985.
+9016-45-9|Polyethylene glycol nonylphenyl ether|rabbit|LD50|skin|1780uL/kg (1.78mL/kg)| |Union Carbide Data Sheet.  Vol. 7/14/1965, 
+9016-45-9|Polyethylene glycol nonylphenyl ether|rabbit|LD50|skin|2mL/kg (2mL/kg)| |Union Carbide Data Sheet.  Vol. 6/16/1965, 
+9016-45-9|Polyethylene glycol nonylphenyl ether|rabbit|LD50|skin|2520uL/kg (2.52mL/kg)| |Union Carbide Data Sheet.  Vol. 4/25/1958, 
+9016-45-9|Polyethylene glycol nonylphenyl ether|rabbit|LD50|skin|2830uL/kg (2.83mL/kg)| |Union Carbide Data Sheet.  Vol. 4/11/1963, 
+9016-45-9|Polyethylene glycol nonylphenyl ether|rabbit|LD50|skin|3970uL/kg (3.97mL/kg)| |Union Carbide Data Sheet.  Vol. 12/17/1962, 
+9016-45-9|Polyethylene glycol nonylphenyl ether|rabbit|LD50|skin|4490uL/kg (4.49mL/kg)| |Union Carbide Data Sheet.  Vol. 11/8/1971, 
+9016-45-9|Polyethylene glycol nonylphenyl ether|rat|LC|inhalation|> 21mg/m3/8H (21mg/m3)| |Union Carbide Data Sheet.  Vol. 4/25/1958, 
+9016-45-9|Polyethylene glycol nonylphenyl ether|rat|LC|inhalation|> 28mg/m3/8H (28mg/m3)| |Union Carbide Data Sheet.  Vol. 11/8/1971, 
+9016-45-9|Polyethylene glycol nonylphenyl ether|rat|LCLo|inhalation|29mg/m3/8H (29mg/m3)| |Union Carbide Data Sheet.  Vol. 9/22/1964, 
+9016-45-9|Polyethylene glycol nonylphenyl ether|rat|LD50|oral|2590uL/kg (2.59mL/kg)| |Union Carbide Data Sheet.  Vol. 4/11/1963, 
+9016-45-9|Polyethylene glycol nonylphenyl ether|rat|LD50|oral|3670uL/kg (3.67mL/kg)| |Union Carbide Data Sheet.  Vol. 7/14/1965, 
+9016-45-9|Polyethylene glycol nonylphenyl ether|rat|LD50|oral|3730uL/kg (3.73mL/kg)| |Union Carbide Data Sheet.  Vol. 12/17/1962, 
+9016-45-9|Polyethylene glycol nonylphenyl ether|rat|LD50|oral|4290uL/kg (4.29mL/kg)| |Union Carbide Data Sheet.  Vol. 4/25/1958, 
+9016-45-9|Polyethylene glycol nonylphenyl ether|rat|LD50|oral|1310mg/kg (1310mg/kg)| |Union Carbide Data Sheet.  Vol. 6/16/1965, 
+9016-45-9|Polyethylene glycol nonylphenyl ether|rat|LD50|oral|> 3gm/kg (3000mg/kg)| |National Technical Information Service.  Vol. OTS0573581, 
+9016-45-9|Polyethylene glycol nonylphenyl ether|rat|LD50|oral|4gm/kg (4000mg/kg)| |Farm Chemicals Handbook.  Vol. -, Pg. C10, 1991.
+9016-45-9|Polyethylene glycol nonylphenyl ether|rat|LD50|oral|4gm/kg (4000mg/kg)| |Union Carbide Data Sheet.  Vol. 9/22/1964, 
+9016-45-9|Polyethylene glycol nonylphenyl ether|rat|LD50|oral|16gm/kg (16000mg/kg)| |Union Carbide Data Sheet.  Vol. 11/8/1971, 
+90622-57-4|Alkanes|rabbit|LD50|skin|> 3200mg/kg (3200mg/kg)| |JAT, Journal of Applied Toxicology.  Vol. 10, Pg. 135, 1990.
+90622-57-4|Alkanes|rat|LC50|inhalation|> 12200mg/m3/4 (12200mg/m3)| |JAT, Journal of Applied Toxicology.  Vol. 10, Pg. 135, 1990.
+90622-57-4|Alkanes|rat|LD50|oral|> 10gm/kg (10000mg/kg)| |JAT, Journal of Applied Toxicology.  Vol. 10, Pg. 135, 1990.
+915-67-3|Amaranth Dye|mouse|LD50|intraperitoneal|1gm/kg (1000mg/kg)|BEHAVIORAL: SOMNOLENCE (GENERAL DEPRESSED ACTIVITY)|Food and Cosmetics Toxicology.  Vol. 14, Pg. 163, 1976.
+915-67-3|Amaranth Dye|rat|LD50|intraperitoneal|1gm/kg (1000mg/kg)| |Scientia Pharmaceutica.  Vol. 47, Pg. 39, 1979.
+915-67-3|Amaranth Dye|rat|LD50|intravenous|1gm/kg (1000mg/kg)| |Scientia Pharmaceutica.  Vol. 47, Pg. 39, 1979.
+93763-70-3|Perlite|mouse|LD50|oral|12960mg/kg (12960mg/kg)| |Journal of Toxicological Sciences.  Vol. 10, Pg. 83, 1985.
+98-55-5|alpha-Terpineol|mouse|LD50|intramuscular|2gm/kg (2000mg/kg)| |Journal of Scientific and Industrial Research, Section C: Biological Sciences.  Vol. 21, Pg. 342, 1962.
+98-55-5|alpha-Terpineol|mouse|LD50|oral|2830mg/kg (2830mg/kg)| |Chemical and Pharmaceutical Bulletin.  Vol. 33, Pg. 1669, 1985.
+98-55-5|alpha-Terpineol|rat|LD50|oral|5170mg/kg (5170mg/kg)| |Gigiena Truda i Professional'nye Zabolevaniya.  Labor Hygiene and Occupational Diseases. Vol. 31(2), Pg. 29, 1987.
+124-68-5|2-Amino-2-methylpropanol|mouse|LD50|oral|2150mg/kg (2150mg/kg)| |Journal of the American College of Toxicology.  Vol. 9(2), Pg. 203, 1990.
+124-68-5|2-Amino-2-methylpropanol|rabbit|LDLo|oral|1gm/kg (1000mg/kg)|BEHAVIORAL: SOMNOLENCE (GENERAL DEPRESSED ACTIVITY)LUNGS, THORAX, OR RESPIRATION: RESPIRATORY STIMULATIONBEHAVIORAL: COMA|Journal of Industrial Hygiene and Toxicology.  Vol. 22, Pg. 315, 1940.
+124-68-5|2-Amino-2-methylpropanol|rat|LD50|oral|2900mg/kg (2900mg/kg)| |Journal of the American College of Toxicology.  Vol. 9(2), Pg. 203, 1990.
+125-12-2|Pichtosin|mouse|LD50|oral|3100mg/kg (3100mg/kg)|LIVER: OTHER CHANGESBEHAVIORAL: SOMNOLENCE (GENERAL DEPRESSED ACTIVITY)BLOOD: HEMORRHAGE|Toksikologicheskii Vestnik.  Vol. (3), Pg. 34, 2000.
+125-12-2|Pichtosin|rat|LD50|oral|9050mg/kg (9050mg/kg)|LIVER: OTHER CHANGESBEHAVIORAL: SOMNOLENCE (GENERAL DEPRESSED ACTIVITY)BLOOD: HEMORRHAGE|Toksikologicheskii Vestnik.  Vol. (3), Pg. 34, 2000.
+1310-58-3|Potassium hydroxide |rat|LD50|oral|273mg/kg (273mg/kg)| |Fundamental and Applied Toxicology.  Vol. 8, Pg. 97, 1987.
+1310-73-2|Sodium hydroxide |mouse|LD50|intraperitoneal|40mg/kg (40mg/kg)| |Comptes Rendus Hebdomadaires des Seances, Academie des Sciences.  Vol. 257, Pg. 791, 1963.
+1310-73-2|Sodium hydroxide |rabbit|LDLo|oral|500mg/kg (500mg/kg)| |Naunyn-Schmiedeberg's Archiv fuer Experimentelle Pathologie und Pharmakologie.  Vol. 184, Pg. 587, 1937.
+14808-60-7|Quartz|dog|LDLo|intravenous|20mg/kg (20mg/kg)| |Biochemical Journal.  Vol. 27, Pg. 1007, 1933.
+14808-60-7|Quartz|human|LCLo|inhalation|300ug/m3/10Y- (0.3mg/m3)|LIVER: OTHER CHANGES|Annals of the New York Academy of Sciences.  Vol. 271, Pg. 324, 1976.
+14808-60-7|Quartz|human|TCLo|inhalation|16mppcf/8H/17 (16mppcf)|LUNGS, THORAX, OR RESPIRATION: COUGHLUNGS, THORAX, OR RESPIRATION: DYSPNEALUNGS, THORAX, OR RESPIRATION: "FIBROSIS, FOCAL (PNEUMOCONIOSIS)"|National Technical Information Service.  Vol. PB246-697, 
+14808-60-7|Quartz|mouse|LD|intratracheal|> 20mg/kg (20mg/kg)| |American Review of Respiratory Disease.  Vol. 141(Suppl), Pg. A3-A937, 1990.
+14808-60-7|Quartz|mouse|LD|intratracheal|> 20mg/kg (20mg/kg)|LUNGS, THORAX, OR RESPIRATION: OTHER CHANGES|American Review of Respiratory Disease.  Vol. 141(Suppl), Pg. A3-A937, 1990.
+14808-60-7|Quartz|mouse|LDLo|intravenous|40mg/kg (40mg/kg)| |Journal of the National Cancer Institute.  Vol. 1, Pg. 241, 1940.
+14808-60-7|Quartz|rat|LDLo|intratracheal|200mg/kg (200mg/kg)|LUNGS, THORAX, OR RESPIRATION: "FIBROSIS, FOCAL (PNEUMOCONIOSIS)"|British Journal of Industrial Medicine.  Vol. 10, Pg. 9, 1953.
+14808-60-7|Quartz|rat|LDLo|intravenous|90mg/kg (90mg/kg)| |Journal of the National Cancer Institute.  Vol. 57, Pg. 509, 1976.
+1328-53-6|Phthalocyanine Green|rat|LD|oral|> 10gm/kg (10000mg/kg)| |Khigiena i Zdraveopazvane.  Hygiene and Sanitation.  Vol. 16, Pg. 191, 1973.
+1330-38-7|CI 74180|rat|LD50|intraperitoneal|800mg/kg (800mg/kg)| |Current Toxicology.  Vol. 1, Pg. 243, 1993.
+1330-38-7|CI 74180|rat|LD50|oral|> 5gm/kg (5000mg/kg)| |Current Toxicology.  Vol. 1, Pg. 243, 1993.
+1336-21-6|Ammonium hydroxide|cat|LDLo|oral|750mg/kg (750mg/kg)| |"Abdernalden's Handbuch der Biologischen Arbeitsmethoden."  Vol. 4, Pg. 1289, 1935.
+1336-21-6|Ammonium hydroxide|frog|LDLo|parenteral|2500mg/kg (2500mg/kg)| |"Structure et Activite Pharmacodyanmique des Medicaments du Systeme Nerveux Vegetatif," Bovet, D., and F. Bovet-Nitti, New York, S. Karger, 1948Vol. -, Pg. 688, 1948.
+1336-21-6|Ammonium hydroxide|human|LCLo|inhalation|5000ppm (5000ppm)| |"Toxicology of Drugs and Chemicals," Deichmann, W.B., New York, Academic Press, Inc., 1969Vol. -, Pg. 95, 1969.
+1336-21-6|Ammonium hydroxide|human|LDLo|oral|43mg/kg (43mg/kg)| |"Toxicology of Drugs and Chemicals," Deichmann, W.B., New York, Academic Press, Inc., 1969Vol. -, Pg. 95, 1969.
+1336-21-6|Ammonium hydroxide|human|TCLo|inhalation|408ppm (408ppm)|LUNGS, THORAX, OR RESPIRATION: "FIBROSIS, FOCAL (PNEUMOCONIOSIS)"LUNGS, THORAX, OR RESPIRATION: ACUTE PULMONARY EDEMA|Journal of the Iowa State Medical Society.  Vol. 61, Pg. 271, 1971.
+1336-21-6|Ammonium hydroxide|mouse|LD50|intravenous|91mg/kg (91mg/kg)|BEHAVIORAL: COMALUNGS, THORAX, OR RESPIRATION: RESPIRATORY STIMULATIONBEHAVIORAL: CONVULSIONS OR EFFECT ON SEIZURE THRESHOLD|Journal of Clinical Investigation.  Vol. 37, Pg. 497, 1958.
+1336-21-6|Ammonium hydroxide|mouse|LDLo|subcutaneous|160mg/kg (160mg/kg)| |"Structure et Activite Pharmacodyanmique des Medicaments du Systeme Nerveux Vegetatif," Bovet, D., and F. Bovet-Nitti, New York, S. Karger, 1948Vol. -, Pg. 688, 1948.
+1336-21-6|Ammonium hydroxide|rabbit|LDLo|intravenous|10mg/kg (10mg/kg)| |"Abdernalden's Handbuch der Biologischen Arbeitsmethoden."  Vol. 4, Pg. 1289, 1935.
+1336-21-6|Ammonium hydroxide|rabbit|LDLo|subcutaneous|200mg/kg (200mg/kg)| |"Structure et Activite Pharmacodyanmique des Medicaments du Systeme Nerveux Vegetatif," Bovet, D., and F. Bovet-Nitti, New York, S. Karger, 1948Vol. -, Pg. 688, 1948.
+1336-21-6|Ammonium hydroxide|rat|LD50|oral|350mg/kg (350mg/kg)|GASTROINTESTINAL: OTHER CHANGESLIVER: OTHER CHANGESKIDNEY, URETER, AND BLADDER: OTHER CHANGES |Journal of Industrial Hygiene and Toxicology.  Vol. 23, Pg. 259, 1941.
+1344-09-8|Sodium silicate|rabbit|LD50|skin|> 4640mg/kg (4640mg/kg)|BEHAVIORAL: SOMNOLENCE (GENERAL DEPRESSED ACTIVITY)LUNGS, THORAX, OR RESPIRATION: DYSPNEA|National Technical Information Service.  Vol. OTS0571941, 
+1344-09-8|Sodium silicate|rat|LD50|oral|1960mg/kg (1960mg/kg)| |National Technical Information Service.  Vol. OTS0571941, 
+13463-67-7|Titanium dioxide |rat|LD|intratracheal|> 100ug/kg (0.1mg/kg)|LUNGS, THORAX, OR RESPIRATION: STRUCTURAL OR FUNCTIONAL CHANGE IN TRACHEA OR BRONCHIBLOOD: "CHANGES IN SERUM COMPOSITION (E.G., TP, BILIRUBIN, CHOLESTEROL)"|Industrial Health.  Vol. 35, Pg. 61, 1997.
+1401-55-4|Tannic acid |domestic animals - goat/sheep|LDLo|intraperitoneal|1gm/kg (1000mg/kg)|LIVER: "JAUNDICE, OTHER OR UNCLASSIFIED"BEHAVIORAL: FOOD INTAKE (ANIMAL)BEHAVIORAL: SOMNOLENCE (GENERAL DEPRESSED ACTIVITY)|Research in Veterinary Science.  Vol. 53, Pg. 280, 1992.
+1401-55-4|Tannic acid |domestic animals - goat/sheep|LDLo|oral|1gm/kg (1000mg/kg)|KIDNEY, URETER, AND BLADDER: "CHANGES IN TUBULES (INCLUDING ACUTE RENAL FAILURE, ACUTE TUBULAR NECROSIS)"LIVER: "HEPATITIS (HEPATOCELLULAR NECROSIS), ZONAL"GASTROINTESTINAL: ULCERATION OR BLEEDING FROM STOMACH|Veterinary and Human Toxicology.  Vol. 37, Pg. 50, 1995.
+1401-55-4|Tannic acid |guinea pig|LDLo|intravenous|40mg/kg (40mg/kg)| |"Toxicology of Drugs and Chemicals," Deichmann, W.B., New York, Academic Press, Inc., 1969Vol. -, Pg. 571, 1969.
+1401-55-4|Tannic acid |mouse|LD50|intramuscular|120mg/kg (120mg/kg)| |Journal of Pharmacy and Pharmacology.  Vol. 9, Pg. 98, 1957.
+1401-55-4|Tannic acid |mouse|LD50|intramuscular|350mg/kg (350mg/kg)| |Journal of Pharmacy and Pharmacology.  Vol. 9, Pg. 98, 1957.
+1401-55-4|Tannic acid |mouse|LD50|intramuscular|> 1600mg/kg (1600mg/kg)| |Journal of Pharmacy and Pharmacology.  Vol. 9, Pg. 98, 1957.
+1401-55-4|Tannic acid |mouse|LD50|intramuscular|> 1600mg/kg (1600mg/kg)| |Journal of Pharmacy and Pharmacology.  Vol. 9, Pg. 98, 1957.
+1401-55-4|Tannic acid |mouse|LD50|intraperitoneal|120mg/kg (120mg/kg)| |Planta Medica.  Vol. 52, Pg. 272, 1986.
+1401-55-4|Tannic acid |mouse|LD50|intraperitoneal|150mg/kg (150mg/kg)| |Journal of Pharmacy and Pharmacology.  Vol. 9, Pg. 98, 1957.
+1401-55-4|Tannic acid |mouse|LD50|intraperitoneal|320mg/kg (320mg/kg)| |Journal of Pharmacy and Pharmacology.  Vol. 9, Pg. 98, 1957.
+1401-55-4|Tannic acid |mouse|LD50|intraperitoneal|360mg/kg (360mg/kg)| |Journal of Pharmacy and Pharmacology.  Vol. 9, Pg. 98, 1957.
+1401-55-4|Tannic acid |mouse|LD50|intravenous|50mg/kg (50mg/kg)| |Journal of Pharmacy and Pharmacology.  Vol. 9, Pg. 98, 1957.
+1401-55-4|Tannic acid |mouse|LD50|intravenous|130mg/kg (130mg/kg)| |Journal of Pharmacy and Pharmacology.  Vol. 9, Pg. 98, 1957.
+1401-55-4|Tannic acid |mouse|LD50|intravenous|130mg/kg (130mg/kg)| |Journal of Pharmacy and Pharmacology.  Vol. 9, Pg. 98, 1957.
+1401-55-4|Tannic acid |mouse|LD50|subcutaneous|140mg/kg (140mg/kg)| |Journal of Pharmacy and Pharmacology.  Vol. 9, Pg. 98, 1957.
+1401-55-4|Tannic acid |mouse|LD50|subcutaneous|> 1600mg/kg (1600mg/kg)| |Journal of Pharmacy and Pharmacology.  Vol. 9, Pg. 98, 1957.
+1401-55-4|Tannic acid |mouse|LD50|subcutaneous|> 1600mg/kg (1600mg/kg)| |Journal of Pharmacy and Pharmacology.  Vol. 9, Pg. 98, 1957.
+1401-55-4|Tannic acid |mouse|LDLo|intravenous|10mg/kg (10mg/kg)|SENSE ORGANS AND SPECIAL SENSES: HEMORRHAGE: EYELUNGS, THORAX, OR RESPIRATION: RESPIRATORY DEPRESSION|Journal of Pharmacology and Experimental Therapeutics.  Vol. 77, Pg. 63, 1943.
+1401-55-4|Tannic acid |mouse|LDLo|oral|2gm/kg (2000mg/kg)|SENSE ORGANS AND SPECIAL SENSES: HEMORRHAGE: EYELUNGS, THORAX, OR RESPIRATION: RESPIRATORY DEPRESSION|Journal of Pharmacology and Experimental Therapeutics.  Vol. 77, Pg. 63, 1943.
+1401-55-4|Tannic acid |mouse|LDLo|subcutaneous|75mg/kg (75mg/kg)|LUNGS, THORAX, OR RESPIRATION: RESPIRATORY DEPRESSIONSENSE ORGANS AND SPECIAL SENSES: HEMORRHAGE: EYE|Journal of Pharmacology and Experimental Therapeutics.  Vol. 77, Pg. 63, 1943.
+1401-55-4|Tannic acid |rabbit|LD50|oral|5gm/kg (5000mg/kg)|LUNGS, THORAX, OR RESPIRATION: CHRONIC PULMONARY EDEMAGASTROINTESTINAL: GASTRITIS|American Journal of Veterinary Research.  Vol. 23, Pg. 1264, 1962.
+1401-55-4|Tannic acid |rat|LD50|oral|2260mg/kg (2260mg/kg)|GASTROINTESTINAL: OTHER CHANGESLUNGS, THORAX, OR RESPIRATION: DYSPNEABEHAVIORAL: CONVULSIONS OR EFFECT ON SEIZURE THRESHOLD|"Toxicology of Drugs and Chemicals," Deichmann, W.B., New York, Academic Press, Inc., 1969Vol. -, Pg. 571, 1969.
+1401-55-4|Tannic acid |rat|LDLo|parenteral|1400mg/kg (1400mg/kg)| |Food and Cosmetics Toxicology.  Vol. 14, Pg. 565, 1976.
+1401-55-4|Tannic acid |rat|LDLo|subcutaneous|200mg/kg (200mg/kg)| |Wiener Klinische Wochenschrift.  Vol. 62, Pg. 270, 1950.
+141-43-5|Ethanolamine|cat|LC|inhalation|> 2420mg/m3/2H (2420mg/m3)| |Gigiena Truda i Professional'nye Zabolevaniya.  Labor Hygiene and Occupational Diseases. Vol. 23(9), Pg. 55, 1979.
+141-43-5|Ethanolamine|guinea pig|LD50|oral|620mg/kg (620mg/kg)| |Environmental Space Science.  English Translation of Kosmicheskaya Biologiya Meditsina. 1967-70.Vol. 2, Pg. 289, 1968.
+141-43-5|Ethanolamine|mammal (species unspecified)|LDLo|oral|1400mg/kg (1400mg/kg)| |National Technical Information Service.  Vol. OTS0520710, 
+141-43-5|Ethanolamine|mouse|LC|inhalation|> 2420mg/m3/2H (2420mg/m3)| |Gigiena Truda i Professional'nye Zabolevaniya.  Labor Hygiene and Occupational Diseases. Vol. 23(9), Pg. 55, 1979.
+141-43-5|Ethanolamine|mouse|LD50|intraperitoneal|50mg/kg (50mg/kg)| |National Technical Information Service.  Vol. AD277-689, 
+141-43-5|Ethanolamine|mouse|LD50|oral|700mg/kg (700mg/kg)|BEHAVIORAL: MUSCLE CONTRACTION OR SPASTICITY)LUNGS, THORAX, OR RESPIRATION: DYSPNEABEHAVIORAL: SOMNOLENCE (GENERAL DEPRESSED ACTIVITY)|Toksikologiya Novykh Promyshlennykh Khimicheskikh Veshchestv.  Toxicology of New Industrial Chemical Substances.  For English translation, see TNICS*.  Vol. 4, Pg. 81, 1962.
+141-43-5|Ethanolamine|rabbit|LD50|oral|1gm/kg (1000mg/kg)| |Gigiena Truda i Professional'nye Zabolevaniya.  Labor Hygiene and Occupational Diseases. Vol. 23(9), Pg. 55, 1979.
+141-43-5|Ethanolamine|rabbit|LD50|skin|1mL/kg (1mL/kg)| |Union Carbide Data Sheet.  Vol. 1/13/1972, 
+141-43-5|Ethanolamine|rat|LD50|intramuscular|1750mg/kg (1750mg/kg)| |Gigiena Truda i Professional'nye Zabolevaniya.  Labor Hygiene and Occupational Diseases. Vol. 23(9), Pg. 55, 1979.
+141-43-5|Ethanolamine|rat|LD50|intraperitoneal|67mg/kg (67mg/kg)| |Environmental Space Science.  English Translation of Kosmicheskaya Biologiya Meditsina. 1967-70.Vol. 2, Pg. 289, 1968.
+141-43-5|Ethanolamine|rat|LD50|intravenous|225mg/kg (225mg/kg)|LUNGS, THORAX, OR RESPIRATION: DYSPNEABEHAVIORAL: SOMNOLENCE (GENERAL DEPRESSED ACTIVITY)BEHAVIORAL: MUSCLE CONTRACTION OR SPASTICITY)|Kosmicheskaya Biologiya i Meditsina.  Space Biology and Medicine.  Vol. (4), Pg. 44, 1968.
+141-43-5|Ethanolamine|rat|LD50|oral|1720mg/kg (1720mg/kg)| |Toxicology and Applied Pharmacology.  Vol. 42, Pg. 417, 1977.
+141-43-5|Ethanolamine|rat|LD50|subcutaneous|1500mg/kg (1500mg/kg)| |Gigiena Truda i Professional'nye Zabolevaniya.  Labor Hygiene and Occupational Diseases. Vol. 23(9), Pg. 55, 1979.
+144-55-8|Sodium bicarbonate |infant|TDLo|oral|1260mg/kg (1260mg/kg)|LUNGS, THORAX, OR RESPIRATION: OTHER CHANGESKIDNEY, URETER, AND BLADDER: URINE VOLUME INCREASED|American Journal of Diseases of Children.  Vol. 135, Pg. 965, 1981.
+144-55-8|Sodium bicarbonate |man|TDLo|oral|20mg/kg/5D-I (20mg/kg)| |American Journal of Emergency Medicine.  Vol. 12, Pg. 57, 1994.
+144-55-8|Sodium bicarbonate |man|TDLo|oral|20mg/kg/5D-I (20mg/kg)| |American Journal of Emergency Medicine.  Vol. 12, Pg. 57, 1994.
+144-55-8|Sodium bicarbonate |man|TDLo|oral|20mg/kg/5D-I (20mg/kg)|GASTROINTESTINAL: NAUSEA OR VOMITING|American Journal of Emergency Medicine.  Vol. 12, Pg. 57, 1994.
+144-55-8|Sodium bicarbonate |mouse|LD50|oral|3360mg/kg (3360mg/kg)| |Gigiena Truda i Professional'nye Zabolevaniya.  Labor Hygiene and Occupational Diseases. Vol. 33(5), Pg. 30, 1989.
+144-55-8|Sodium bicarbonate |rat|LC|inhalation|> 900mg/m3 (900mg/m3)| |Gigiena Truda i Professional'nye Zabolevaniya.  Labor Hygiene and Occupational Diseases. Vol. 33(5), Pg. 30, 1989.
+144-55-8|Sodium bicarbonate |rat|LD50|oral|4220mg/kg (4220mg/kg)| |Toxicology and Applied Pharmacology.  Vol. 6, Pg. 726, 1964.
