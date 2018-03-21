@@ -21,7 +21,8 @@ def main():
             else:
                 cas_error[c] = temp_class
                 print(c + "Failed with code - " +str( temp_class.error_code))
-    print("Failed cas_numbers")
+    if c.length > 0:
+        print("Failed cas_numbers")
     for c in cas_error.keys():
         print(c)
 
